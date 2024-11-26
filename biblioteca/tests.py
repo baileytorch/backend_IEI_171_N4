@@ -1,6 +1,6 @@
 from django.test import TestCase
 from django.core.exceptions import ValidationError
-from biblioteca.models import validar_rut,validar_mayoria_edad, Nacionalidad, Autor, Comuna
+from biblioteca.models import validar_rut,validar_mayoria_edad,validar_correo, Nacionalidad, Autor, Comuna
 from datetime import date
 from dateutil.relativedelta import relativedelta
 
@@ -26,6 +26,15 @@ class TestValidarEdad(TestCase):
         menor_edad = fecha_actual - relativedelta(years=17)
         with self.assertRaises(ValidationError):
             validar_mayoria_edad(menor_edad)
+
+
+class TestValidarCorreo(TestCase):
+    def test_correo_valido(self):
+        self.assertIsNone(validar_correo('test@test.test'))
+
+    def test_correo_invalido(self):
+        with self.assertRaises(ValidationError):
+            validar_correo('test@test.')
 
 
 class TestNacinalidad(TestCase):

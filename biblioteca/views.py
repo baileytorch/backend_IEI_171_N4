@@ -116,8 +116,9 @@ class LibroFilter(django_filters.FilterSet):
 
 @login_required
 def listado_libros(request):
+    permisos = request.user.user_permissions.all()
     f = LibroFilter(request.GET, queryset=Libro.objects.all())
-    return render(request, 'biblioteca/lista_libros.html',{'filtro': f})
+    return render(request, 'biblioteca/lista_libros.html',{'filtro': f,'permisos':permisos})
 
 
 class LibroViewSet(viewsets.ModelViewSet):
