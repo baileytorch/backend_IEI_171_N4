@@ -6,6 +6,10 @@ from .models import Nacionalidad, Autor, Comuna, Direccion, Biblioteca, Lector, 
 # Create your views here.
 
 
+def pagina_inicio(request):
+    return render(request, 'biblioteca/inicio.html')
+
+
 class Nacionalidad_ViewSet(viewsets.ModelViewSet):
     queryset = Nacionalidad.objects.all()
     serializer_class = Nacionalidad_Serializer
