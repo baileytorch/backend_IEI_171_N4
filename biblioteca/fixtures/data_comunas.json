@@ -1,0 +1,3089 @@
+[
+  {
+    "model": "biblioteca.comuna",
+    "pk": 1,
+    "fields": {
+      "codigo_comuna": "01101",
+      "nombre_comuna": "Iquique",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 2,
+    "fields": {
+      "codigo_comuna": "01107",
+      "nombre_comuna": "Alto Hospicio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 3,
+    "fields": {
+      "codigo_comuna": "01401",
+      "nombre_comuna": "Pozo Almonte",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 4,
+    "fields": {
+      "codigo_comuna": "01402",
+      "nombre_comuna": "Camiña",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 5,
+    "fields": {
+      "codigo_comuna": "01403",
+      "nombre_comuna": "Colchane",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 6,
+    "fields": {
+      "codigo_comuna": "01404",
+      "nombre_comuna": "Huara",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 7,
+    "fields": {
+      "codigo_comuna": "01405",
+      "nombre_comuna": "Pica",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 8,
+    "fields": {
+      "codigo_comuna": "02101",
+      "nombre_comuna": "Antofagasta",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 9,
+    "fields": {
+      "codigo_comuna": "02102",
+      "nombre_comuna": "Mejillones",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 10,
+    "fields": {
+      "codigo_comuna": "02103",
+      "nombre_comuna": "Sierra Gorda",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 11,
+    "fields": {
+      "codigo_comuna": "02104",
+      "nombre_comuna": "Taltal",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 12,
+    "fields": {
+      "codigo_comuna": "02201",
+      "nombre_comuna": "Calama",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 13,
+    "fields": {
+      "codigo_comuna": "02202",
+      "nombre_comuna": "Ollagüe",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 14,
+    "fields": {
+      "codigo_comuna": "02203",
+      "nombre_comuna": "San Pedro de Atacama",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 15,
+    "fields": {
+      "codigo_comuna": "02301",
+      "nombre_comuna": "Tocopilla",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 16,
+    "fields": {
+      "codigo_comuna": "02302",
+      "nombre_comuna": "María Elena",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 17,
+    "fields": {
+      "codigo_comuna": "03101",
+      "nombre_comuna": "Copiapó",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 18,
+    "fields": {
+      "codigo_comuna": "03102",
+      "nombre_comuna": "Caldera",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 19,
+    "fields": {
+      "codigo_comuna": "03103",
+      "nombre_comuna": "Tierra Amarilla",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 20,
+    "fields": {
+      "codigo_comuna": "03201",
+      "nombre_comuna": "Chañaral",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 21,
+    "fields": {
+      "codigo_comuna": "03202",
+      "nombre_comuna": "Diego de Almagro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 22,
+    "fields": {
+      "codigo_comuna": "03301",
+      "nombre_comuna": "Vallenar",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 23,
+    "fields": {
+      "codigo_comuna": "03302",
+      "nombre_comuna": "Alto del Carmen",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 24,
+    "fields": {
+      "codigo_comuna": "03303",
+      "nombre_comuna": "Freirina",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 25,
+    "fields": {
+      "codigo_comuna": "03304",
+      "nombre_comuna": "Huasco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 26,
+    "fields": {
+      "codigo_comuna": "04101",
+      "nombre_comuna": "La Serena",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 27,
+    "fields": {
+      "codigo_comuna": "04102",
+      "nombre_comuna": "Coquimbo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 28,
+    "fields": {
+      "codigo_comuna": "04103",
+      "nombre_comuna": "Andacollo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 29,
+    "fields": {
+      "codigo_comuna": "04104",
+      "nombre_comuna": "La Higuera",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 30,
+    "fields": {
+      "codigo_comuna": "04105",
+      "nombre_comuna": "Paiguano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 31,
+    "fields": {
+      "codigo_comuna": "04106",
+      "nombre_comuna": "Vicuña",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 32,
+    "fields": {
+      "codigo_comuna": "04201",
+      "nombre_comuna": "Illapel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 33,
+    "fields": {
+      "codigo_comuna": "04202",
+      "nombre_comuna": "Canela",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 34,
+    "fields": {
+      "codigo_comuna": "04203",
+      "nombre_comuna": "Los Vilos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 35,
+    "fields": {
+      "codigo_comuna": "04204",
+      "nombre_comuna": "Salamanca",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 36,
+    "fields": {
+      "codigo_comuna": "04301",
+      "nombre_comuna": "Ovalle",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 37,
+    "fields": {
+      "codigo_comuna": "04302",
+      "nombre_comuna": "Combarbalá",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 38,
+    "fields": {
+      "codigo_comuna": "04303",
+      "nombre_comuna": "Monte Patria",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 39,
+    "fields": {
+      "codigo_comuna": "04304",
+      "nombre_comuna": "Punitaqui",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 40,
+    "fields": {
+      "codigo_comuna": "04305",
+      "nombre_comuna": "Río Hurtado",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 41,
+    "fields": {
+      "codigo_comuna": "05101",
+      "nombre_comuna": "Valparaíso",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 42,
+    "fields": {
+      "codigo_comuna": "05102",
+      "nombre_comuna": "Casablanca",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 43,
+    "fields": {
+      "codigo_comuna": "05103",
+      "nombre_comuna": "Concón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 44,
+    "fields": {
+      "codigo_comuna": "05104",
+      "nombre_comuna": "Juan Fernández",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 45,
+    "fields": {
+      "codigo_comuna": "05105",
+      "nombre_comuna": "Puchuncaví",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 46,
+    "fields": {
+      "codigo_comuna": "05107",
+      "nombre_comuna": "Quintero",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 47,
+    "fields": {
+      "codigo_comuna": "05108",
+      "nombre_comuna": "Viña del Mar",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 48,
+    "fields": {
+      "codigo_comuna": "05201",
+      "nombre_comuna": "Isla de Pascua",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 49,
+    "fields": {
+      "codigo_comuna": "05301",
+      "nombre_comuna": "Los Andes",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 50,
+    "fields": {
+      "codigo_comuna": "05302",
+      "nombre_comuna": "Calle Larga",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 51,
+    "fields": {
+      "codigo_comuna": "05303",
+      "nombre_comuna": "Catemu",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 52,
+    "fields": {
+      "codigo_comuna": "05304",
+      "nombre_comuna": "Llay-Llay",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 53,
+    "fields": {
+      "codigo_comuna": "05305",
+      "nombre_comuna": "Olmué",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 54,
+    "fields": {
+      "codigo_comuna": "05306",
+      "nombre_comuna": "Panquehue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 55,
+    "fields": {
+      "codigo_comuna": "05307",
+      "nombre_comuna": "Putaendo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 56,
+    "fields": {
+      "codigo_comuna": "05308",
+      "nombre_comuna": "Quillota",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 57,
+    "fields": {
+      "codigo_comuna": "05309",
+      "nombre_comuna": "Rinconada",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 58,
+    "fields": {
+      "codigo_comuna": "05310",
+      "nombre_comuna": "San Antonio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 59,
+    "fields": {
+      "codigo_comuna": "05311",
+      "nombre_comuna": "San Esteban",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 60,
+    "fields": {
+      "codigo_comuna": "05312",
+      "nombre_comuna": "San Felipe",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 61,
+    "fields": {
+      "codigo_comuna": "05313",
+      "nombre_comuna": "Santa María",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 62,
+    "fields": {
+      "codigo_comuna": "05314",
+      "nombre_comuna": "Santo Domingo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 63,
+    "fields": {
+      "codigo_comuna": "05315",
+      "nombre_comuna": "Villa Alemana",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 64,
+    "fields": {
+      "codigo_comuna": "05316",
+      "nombre_comuna": "Zapallar",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 65,
+    "fields": {
+      "codigo_comuna": "05317",
+      "nombre_comuna": "Limache",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 66,
+    "fields": {
+      "codigo_comuna": "05401",
+      "nombre_comuna": "Quilpué",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 67,
+    "fields": {
+      "codigo_comuna": "05501",
+      "nombre_comuna": "Petorca",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 68,
+    "fields": {
+      "codigo_comuna": "05502",
+      "nombre_comuna": "Cabildo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 69,
+    "fields": {
+      "codigo_comuna": "05503",
+      "nombre_comuna": "La Ligua",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 70,
+    "fields": {
+      "codigo_comuna": "05504",
+      "nombre_comuna": "Nogales",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 71,
+    "fields": {
+      "codigo_comuna": "05505",
+      "nombre_comuna": "Papudo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 72,
+    "fields": {
+      "codigo_comuna": "05601",
+      "nombre_comuna": "San Antonio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 73,
+    "fields": {
+      "codigo_comuna": "05602",
+      "nombre_comuna": "Algarrobo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 74,
+    "fields": {
+      "codigo_comuna": "05603",
+      "nombre_comuna": "Cartagena",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 75,
+    "fields": {
+      "codigo_comuna": "05604",
+      "nombre_comuna": "El Quisco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 76,
+    "fields": {
+      "codigo_comuna": "05605",
+      "nombre_comuna": "El Tabo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 77,
+    "fields": {
+      "codigo_comuna": "05606",
+      "nombre_comuna": "Santo Domingo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 78,
+    "fields": {
+      "codigo_comuna": "06101",
+      "nombre_comuna": "Rancagua",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 79,
+    "fields": {
+      "codigo_comuna": "06102",
+      "nombre_comuna": "Codegua",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 80,
+    "fields": {
+      "codigo_comuna": "06103",
+      "nombre_comuna": "Coinco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 81,
+    "fields": {
+      "codigo_comuna": "06104",
+      "nombre_comuna": "Coltauco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 82,
+    "fields": {
+      "codigo_comuna": "06105",
+      "nombre_comuna": "Doñihue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 83,
+    "fields": {
+      "codigo_comuna": "06106",
+      "nombre_comuna": "Graneros",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 84,
+    "fields": {
+      "codigo_comuna": "06107",
+      "nombre_comuna": "Las Cabras",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 85,
+    "fields": {
+      "codigo_comuna": "06108",
+      "nombre_comuna": "Machalí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 86,
+    "fields": {
+      "codigo_comuna": "06109",
+      "nombre_comuna": "Malloa",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 87,
+    "fields": {
+      "codigo_comuna": "06110",
+      "nombre_comuna": "Mostazal",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 88,
+    "fields": {
+      "codigo_comuna": "06111",
+      "nombre_comuna": "Olivar",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 89,
+    "fields": {
+      "codigo_comuna": "06112",
+      "nombre_comuna": "Peumo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 90,
+    "fields": {
+      "codigo_comuna": "06113",
+      "nombre_comuna": "Pichidegua",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 91,
+    "fields": {
+      "codigo_comuna": "06114",
+      "nombre_comuna": "Quinta de Tilcoco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 92,
+    "fields": {
+      "codigo_comuna": "06115",
+      "nombre_comuna": "Rengo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 93,
+    "fields": {
+      "codigo_comuna": "06116",
+      "nombre_comuna": "Requínoa",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 94,
+    "fields": {
+      "codigo_comuna": "06117",
+      "nombre_comuna": "San Vicente",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 95,
+    "fields": {
+      "codigo_comuna": "06201",
+      "nombre_comuna": "San Fernando",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 96,
+    "fields": {
+      "codigo_comuna": "06202",
+      "nombre_comuna": "Chépica",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 97,
+    "fields": {
+      "codigo_comuna": "06203",
+      "nombre_comuna": "Chimbarongo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 98,
+    "fields": {
+      "codigo_comuna": "06204",
+      "nombre_comuna": "La Estrella",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 99,
+    "fields": {
+      "codigo_comuna": "06205",
+      "nombre_comuna": "Litueche",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 100,
+    "fields": {
+      "codigo_comuna": "06206",
+      "nombre_comuna": "Lolol",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 101,
+    "fields": {
+      "codigo_comuna": "06207",
+      "nombre_comuna": "Nancagua",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 102,
+    "fields": {
+      "codigo_comuna": "06208",
+      "nombre_comuna": "Navidad",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 103,
+    "fields": {
+      "codigo_comuna": "06209",
+      "nombre_comuna": "Palmilla",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 104,
+    "fields": {
+      "codigo_comuna": "06210",
+      "nombre_comuna": "Peralillo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 105,
+    "fields": {
+      "codigo_comuna": "06211",
+      "nombre_comuna": "Pichilemu",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 106,
+    "fields": {
+      "codigo_comuna": "06212",
+      "nombre_comuna": "Placilla",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 107,
+    "fields": {
+      "codigo_comuna": "06213",
+      "nombre_comuna": "Pumanque",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 108,
+    "fields": {
+      "codigo_comuna": "06214",
+      "nombre_comuna": "Paredones",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 109,
+    "fields": {
+      "codigo_comuna": "06301",
+      "nombre_comuna": "Santa Cruz",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 110,
+    "fields": {
+      "codigo_comuna": "07101",
+      "nombre_comuna": "Talca",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 111,
+    "fields": {
+      "codigo_comuna": "07102",
+      "nombre_comuna": "Constitución",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 112,
+    "fields": {
+      "codigo_comuna": "07103",
+      "nombre_comuna": "Curepto",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 113,
+    "fields": {
+      "codigo_comuna": "07104",
+      "nombre_comuna": "Empedrado",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 114,
+    "fields": {
+      "codigo_comuna": "07105",
+      "nombre_comuna": "Maule",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 115,
+    "fields": {
+      "codigo_comuna": "07106",
+      "nombre_comuna": "Pelarco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 116,
+    "fields": {
+      "codigo_comuna": "07107",
+      "nombre_comuna": "Pencahue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 117,
+    "fields": {
+      "codigo_comuna": "07108",
+      "nombre_comuna": "Río Claro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 118,
+    "fields": {
+      "codigo_comuna": "07109",
+      "nombre_comuna": "San Clemente",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 119,
+    "fields": {
+      "codigo_comuna": "07110",
+      "nombre_comuna": "San Rafael",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 120,
+    "fields": {
+      "codigo_comuna": "07201",
+      "nombre_comuna": "Cauquenes",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 121,
+    "fields": {
+      "codigo_comuna": "07202",
+      "nombre_comuna": "Chanco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 122,
+    "fields": {
+      "codigo_comuna": "07203",
+      "nombre_comuna": "Pelluhue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 123,
+    "fields": {
+      "codigo_comuna": "07301",
+      "nombre_comuna": "Curicó",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 124,
+    "fields": {
+      "codigo_comuna": "07302",
+      "nombre_comuna": "Hualañé",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 125,
+    "fields": {
+      "codigo_comuna": "07303",
+      "nombre_comuna": "Licantén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 126,
+    "fields": {
+      "codigo_comuna": "07304",
+      "nombre_comuna": "Molina",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 127,
+    "fields": {
+      "codigo_comuna": "07305",
+      "nombre_comuna": "Rauco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 128,
+    "fields": {
+      "codigo_comuna": "07306",
+      "nombre_comuna": "Romeral",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 129,
+    "fields": {
+      "codigo_comuna": "07307",
+      "nombre_comuna": "Sagrada Familia",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 130,
+    "fields": {
+      "codigo_comuna": "07308",
+      "nombre_comuna": "Teno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 131,
+    "fields": {
+      "codigo_comuna": "07309",
+      "nombre_comuna": "Vichuquén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 132,
+    "fields": {
+      "codigo_comuna": "07401",
+      "nombre_comuna": "Linares",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 133,
+    "fields": {
+      "codigo_comuna": "07402",
+      "nombre_comuna": "Colbún",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 134,
+    "fields": {
+      "codigo_comuna": "07403",
+      "nombre_comuna": "Longaví",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 135,
+    "fields": {
+      "codigo_comuna": "07404",
+      "nombre_comuna": "Parral",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 136,
+    "fields": {
+      "codigo_comuna": "07405",
+      "nombre_comuna": "Retiro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 137,
+    "fields": {
+      "codigo_comuna": "07406",
+      "nombre_comuna": "San Javier",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 138,
+    "fields": {
+      "codigo_comuna": "07407",
+      "nombre_comuna": "Villa Alegre",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 139,
+    "fields": {
+      "codigo_comuna": "07408",
+      "nombre_comuna": "Yerbas Buenas",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 140,
+    "fields": {
+      "codigo_comuna": "08101",
+      "nombre_comuna": "Concepción",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 141,
+    "fields": {
+      "codigo_comuna": "08102",
+      "nombre_comuna": "Coronel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 142,
+    "fields": {
+      "codigo_comuna": "08103",
+      "nombre_comuna": "Chiguayante",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 143,
+    "fields": {
+      "codigo_comuna": "08104",
+      "nombre_comuna": "Florida",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 144,
+    "fields": {
+      "codigo_comuna": "08105",
+      "nombre_comuna": "Hualqui",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 145,
+    "fields": {
+      "codigo_comuna": "08106",
+      "nombre_comuna": "Lota",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 146,
+    "fields": {
+      "codigo_comuna": "08107",
+      "nombre_comuna": "Penco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 147,
+    "fields": {
+      "codigo_comuna": "08108",
+      "nombre_comuna": "San Pedro de la Paz",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 148,
+    "fields": {
+      "codigo_comuna": "08109",
+      "nombre_comuna": "Santa Juana",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 149,
+    "fields": {
+      "codigo_comuna": "08110",
+      "nombre_comuna": "Talcahuano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 150,
+    "fields": {
+      "codigo_comuna": "08111",
+      "nombre_comuna": "Tomé",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 151,
+    "fields": {
+      "codigo_comuna": "08112",
+      "nombre_comuna": "Hualpén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 152,
+    "fields": {
+      "codigo_comuna": "08201",
+      "nombre_comuna": "Lebu",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 153,
+    "fields": {
+      "codigo_comuna": "08202",
+      "nombre_comuna": "Arauco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 154,
+    "fields": {
+      "codigo_comuna": "08203",
+      "nombre_comuna": "Cañete",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 155,
+    "fields": {
+      "codigo_comuna": "08204",
+      "nombre_comuna": "Contulmo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 156,
+    "fields": {
+      "codigo_comuna": "08205",
+      "nombre_comuna": "Curanilahue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 157,
+    "fields": {
+      "codigo_comuna": "08206",
+      "nombre_comuna": "Los Álamos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 158,
+    "fields": {
+      "codigo_comuna": "08207",
+      "nombre_comuna": "Tirúa",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 159,
+    "fields": {
+      "codigo_comuna": "08301",
+      "nombre_comuna": "Los Ángeles",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 160,
+    "fields": {
+      "codigo_comuna": "08302",
+      "nombre_comuna": "Antuco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 161,
+    "fields": {
+      "codigo_comuna": "08303",
+      "nombre_comuna": "Cabrero",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 162,
+    "fields": {
+      "codigo_comuna": "08304",
+      "nombre_comuna": "Laja",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 163,
+    "fields": {
+      "codigo_comuna": "08305",
+      "nombre_comuna": "Mulchén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 164,
+    "fields": {
+      "codigo_comuna": "08306",
+      "nombre_comuna": "Nacimiento",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 165,
+    "fields": {
+      "codigo_comuna": "08307",
+      "nombre_comuna": "Negrete",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 166,
+    "fields": {
+      "codigo_comuna": "08308",
+      "nombre_comuna": "Quilaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 167,
+    "fields": {
+      "codigo_comuna": "08309",
+      "nombre_comuna": "Quilleco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 168,
+    "fields": {
+      "codigo_comuna": "08310",
+      "nombre_comuna": "San Rosendo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 169,
+    "fields": {
+      "codigo_comuna": "08311",
+      "nombre_comuna": "Santa Bárbara",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 170,
+    "fields": {
+      "codigo_comuna": "08312",
+      "nombre_comuna": "Tucapel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 171,
+    "fields": {
+      "codigo_comuna": "08313",
+      "nombre_comuna": "Yumbel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 172,
+    "fields": {
+      "codigo_comuna": "08314",
+      "nombre_comuna": "Alto Biobío",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 173,
+    "fields": {
+      "codigo_comuna": "09101",
+      "nombre_comuna": "Temuco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 174,
+    "fields": {
+      "codigo_comuna": "09102",
+      "nombre_comuna": "Carahue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 175,
+    "fields": {
+      "codigo_comuna": "09103",
+      "nombre_comuna": "Cunco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 176,
+    "fields": {
+      "codigo_comuna": "09104",
+      "nombre_comuna": "Curarrehue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 177,
+    "fields": {
+      "codigo_comuna": "09105",
+      "nombre_comuna": "Freire",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 178,
+    "fields": {
+      "codigo_comuna": "09106",
+      "nombre_comuna": "Galvarino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 179,
+    "fields": {
+      "codigo_comuna": "09107",
+      "nombre_comuna": "Gorbea",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 180,
+    "fields": {
+      "codigo_comuna": "09108",
+      "nombre_comuna": "Lautaro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 181,
+    "fields": {
+      "codigo_comuna": "09109",
+      "nombre_comuna": "Loncoche",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 182,
+    "fields": {
+      "codigo_comuna": "09110",
+      "nombre_comuna": "Melipeuco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 183,
+    "fields": {
+      "codigo_comuna": "09111",
+      "nombre_comuna": "Nueva Imperial",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 184,
+    "fields": {
+      "codigo_comuna": "09112",
+      "nombre_comuna": "Padre Las Casas",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 185,
+    "fields": {
+      "codigo_comuna": "09113",
+      "nombre_comuna": "Perquenco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 186,
+    "fields": {
+      "codigo_comuna": "09114",
+      "nombre_comuna": "Pitrufquén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 187,
+    "fields": {
+      "codigo_comuna": "09115",
+      "nombre_comuna": "Pucón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 188,
+    "fields": {
+      "codigo_comuna": "09116",
+      "nombre_comuna": "Saavedra",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 189,
+    "fields": {
+      "codigo_comuna": "09117",
+      "nombre_comuna": "Teodoro Schmidt",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 190,
+    "fields": {
+      "codigo_comuna": "09118",
+      "nombre_comuna": "Toltén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 191,
+    "fields": {
+      "codigo_comuna": "09119",
+      "nombre_comuna": "Vilcún",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 192,
+    "fields": {
+      "codigo_comuna": "09120",
+      "nombre_comuna": "Villarrica",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 193,
+    "fields": {
+      "codigo_comuna": "09201",
+      "nombre_comuna": "Angol",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 194,
+    "fields": {
+      "codigo_comuna": "09202",
+      "nombre_comuna": "Collipulli",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 195,
+    "fields": {
+      "codigo_comuna": "09203",
+      "nombre_comuna": "Curacautín",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 196,
+    "fields": {
+      "codigo_comuna": "09204",
+      "nombre_comuna": "Ercilla",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 197,
+    "fields": {
+      "codigo_comuna": "09205",
+      "nombre_comuna": "Lonquimay",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 198,
+    "fields": {
+      "codigo_comuna": "09206",
+      "nombre_comuna": "Los Sauces",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 199,
+    "fields": {
+      "codigo_comuna": "09207",
+      "nombre_comuna": "Lumaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 200,
+    "fields": {
+      "codigo_comuna": "09208",
+      "nombre_comuna": "Purén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 201,
+    "fields": {
+      "codigo_comuna": "09209",
+      "nombre_comuna": "Renaico",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 202,
+    "fields": {
+      "codigo_comuna": "09210",
+      "nombre_comuna": "Traiguén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 203,
+    "fields": {
+      "codigo_comuna": "09211",
+      "nombre_comuna": "Victoria",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 204,
+    "fields": {
+      "codigo_comuna": "10101",
+      "nombre_comuna": "Puerto Montt",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 205,
+    "fields": {
+      "codigo_comuna": "10102",
+      "nombre_comuna": "Calbuco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 206,
+    "fields": {
+      "codigo_comuna": "10103",
+      "nombre_comuna": "Cochamó",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 207,
+    "fields": {
+      "codigo_comuna": "10104",
+      "nombre_comuna": "Fresia",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 208,
+    "fields": {
+      "codigo_comuna": "10105",
+      "nombre_comuna": "Frutillar",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 209,
+    "fields": {
+      "codigo_comuna": "10106",
+      "nombre_comuna": "Los Muermos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 210,
+    "fields": {
+      "codigo_comuna": "10107",
+      "nombre_comuna": "Llanquihue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 211,
+    "fields": {
+      "codigo_comuna": "10108",
+      "nombre_comuna": "Maullín",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 212,
+    "fields": {
+      "codigo_comuna": "10109",
+      "nombre_comuna": "Osorno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 213,
+    "fields": {
+      "codigo_comuna": "10110",
+      "nombre_comuna": "Puerto Varas",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 214,
+    "fields": {
+      "codigo_comuna": "10201",
+      "nombre_comuna": "Castro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 215,
+    "fields": {
+      "codigo_comuna": "10202",
+      "nombre_comuna": "Ancud",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 216,
+    "fields": {
+      "codigo_comuna": "10203",
+      "nombre_comuna": "Chonchi",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 217,
+    "fields": {
+      "codigo_comuna": "10204",
+      "nombre_comuna": "Curaco de Vélez",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 218,
+    "fields": {
+      "codigo_comuna": "10205",
+      "nombre_comuna": "Dalcahue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 219,
+    "fields": {
+      "codigo_comuna": "10206",
+      "nombre_comuna": "Puqueldón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 220,
+    "fields": {
+      "codigo_comuna": "10207",
+      "nombre_comuna": "Queilén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 221,
+    "fields": {
+      "codigo_comuna": "10208",
+      "nombre_comuna": "Quellón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 222,
+    "fields": {
+      "codigo_comuna": "10209",
+      "nombre_comuna": "Quemchi",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 223,
+    "fields": {
+      "codigo_comuna": "10210",
+      "nombre_comuna": "Quinchao",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 224,
+    "fields": {
+      "codigo_comuna": "10301",
+      "nombre_comuna": "Osorno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 225,
+    "fields": {
+      "codigo_comuna": "10302",
+      "nombre_comuna": "Puerto Octay",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 226,
+    "fields": {
+      "codigo_comuna": "10303",
+      "nombre_comuna": "Purranque",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 227,
+    "fields": {
+      "codigo_comuna": "10304",
+      "nombre_comuna": "Puyehue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 228,
+    "fields": {
+      "codigo_comuna": "10305",
+      "nombre_comuna": "Río Negro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 229,
+    "fields": {
+      "codigo_comuna": "10306",
+      "nombre_comuna": "San Juan de la Costa",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 230,
+    "fields": {
+      "codigo_comuna": "10307",
+      "nombre_comuna": "San Pablo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 231,
+    "fields": {
+      "codigo_comuna": "10401",
+      "nombre_comuna": "Chaitén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 232,
+    "fields": {
+      "codigo_comuna": "10402",
+      "nombre_comuna": "Futaleufú",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 233,
+    "fields": {
+      "codigo_comuna": "10403",
+      "nombre_comuna": "Hualaihué",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 234,
+    "fields": {
+      "codigo_comuna": "10404",
+      "nombre_comuna": "Palena",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 235,
+    "fields": {
+      "codigo_comuna": "11101",
+      "nombre_comuna": "Coyhaique",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 236,
+    "fields": {
+      "codigo_comuna": "11102",
+      "nombre_comuna": "Lago Verde",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 237,
+    "fields": {
+      "codigo_comuna": "11201",
+      "nombre_comuna": "Aysén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 238,
+    "fields": {
+      "codigo_comuna": "11202",
+      "nombre_comuna": "Cisnes",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 239,
+    "fields": {
+      "codigo_comuna": "11203",
+      "nombre_comuna": "Guaitecas",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 240,
+    "fields": {
+      "codigo_comuna": "11301",
+      "nombre_comuna": "Cochrane",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 241,
+    "fields": {
+      "codigo_comuna": "11302",
+      "nombre_comuna": "O’Higgins",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 242,
+    "fields": {
+      "codigo_comuna": "11303",
+      "nombre_comuna": "Tortel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 243,
+    "fields": {
+      "codigo_comuna": "11401",
+      "nombre_comuna": "Chile Chico",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 244,
+    "fields": {
+      "codigo_comuna": "11402",
+      "nombre_comuna": "Río Ibáñez",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 245,
+    "fields": {
+      "codigo_comuna": "12101",
+      "nombre_comuna": "Punta Arenas",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 246,
+    "fields": {
+      "codigo_comuna": "12102",
+      "nombre_comuna": "Laguna Blanca",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 247,
+    "fields": {
+      "codigo_comuna": "12103",
+      "nombre_comuna": "Río Verde",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 248,
+    "fields": {
+      "codigo_comuna": "12104",
+      "nombre_comuna": "San Gregorio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 249,
+    "fields": {
+      "codigo_comuna": "12201",
+      "nombre_comuna": "Cabo de Hornos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 250,
+    "fields": {
+      "codigo_comuna": "12202",
+      "nombre_comuna": "Antártica",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 251,
+    "fields": {
+      "codigo_comuna": "12301",
+      "nombre_comuna": "Porvenir",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 252,
+    "fields": {
+      "codigo_comuna": "12302",
+      "nombre_comuna": "Primavera",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 253,
+    "fields": {
+      "codigo_comuna": "12303",
+      "nombre_comuna": "Timaukel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 254,
+    "fields": {
+      "codigo_comuna": "12401",
+      "nombre_comuna": "Natales",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 255,
+    "fields": {
+      "codigo_comuna": "12402",
+      "nombre_comuna": "Torres del Paine",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 256,
+    "fields": {
+      "codigo_comuna": "13101",
+      "nombre_comuna": "Santiago",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 257,
+    "fields": {
+      "codigo_comuna": "13102",
+      "nombre_comuna": "Cerrillos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 258,
+    "fields": {
+      "codigo_comuna": "13103",
+      "nombre_comuna": "Conchalí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 259,
+    "fields": {
+      "codigo_comuna": "13104",
+      "nombre_comuna": "El Bosque",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 260,
+    "fields": {
+      "codigo_comuna": "13105",
+      "nombre_comuna": "Estación Central",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 261,
+    "fields": {
+      "codigo_comuna": "13106",
+      "nombre_comuna": "Huechuraba",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 262,
+    "fields": {
+      "codigo_comuna": "13107",
+      "nombre_comuna": "Independencia",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 263,
+    "fields": {
+      "codigo_comuna": "13108",
+      "nombre_comuna": "La Cisterna",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 264,
+    "fields": {
+      "codigo_comuna": "13109",
+      "nombre_comuna": "La Florida",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 265,
+    "fields": {
+      "codigo_comuna": "13110",
+      "nombre_comuna": "La Granja",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 266,
+    "fields": {
+      "codigo_comuna": "13111",
+      "nombre_comuna": "La Pintana",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 267,
+    "fields": {
+      "codigo_comuna": "13112",
+      "nombre_comuna": "La Reina",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 268,
+    "fields": {
+      "codigo_comuna": "13113",
+      "nombre_comuna": "Las Condes",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 269,
+    "fields": {
+      "codigo_comuna": "13114",
+      "nombre_comuna": "Lo Barnechea",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 270,
+    "fields": {
+      "codigo_comuna": "13115",
+      "nombre_comuna": "Lo Espejo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 271,
+    "fields": {
+      "codigo_comuna": "13116",
+      "nombre_comuna": "Lo Prado",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 272,
+    "fields": {
+      "codigo_comuna": "13117",
+      "nombre_comuna": "Macul",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 273,
+    "fields": {
+      "codigo_comuna": "13118",
+      "nombre_comuna": "Maipú",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 274,
+    "fields": {
+      "codigo_comuna": "13119",
+      "nombre_comuna": "Ñuñoa",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 275,
+    "fields": {
+      "codigo_comuna": "13120",
+      "nombre_comuna": "Pedro Aguirre Cerda",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 276,
+    "fields": {
+      "codigo_comuna": "13121",
+      "nombre_comuna": "Peñalolén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 277,
+    "fields": {
+      "codigo_comuna": "13122",
+      "nombre_comuna": "Providencia",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 278,
+    "fields": {
+      "codigo_comuna": "13123",
+      "nombre_comuna": "Pudahuel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 279,
+    "fields": {
+      "codigo_comuna": "13124",
+      "nombre_comuna": "Quilicura",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 280,
+    "fields": {
+      "codigo_comuna": "13125",
+      "nombre_comuna": "Quinta Normal",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 281,
+    "fields": {
+      "codigo_comuna": "13126",
+      "nombre_comuna": "Recoleta",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 282,
+    "fields": {
+      "codigo_comuna": "13127",
+      "nombre_comuna": "Renca",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 283,
+    "fields": {
+      "codigo_comuna": "13128",
+      "nombre_comuna": "San Joaquín",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 284,
+    "fields": {
+      "codigo_comuna": "13129",
+      "nombre_comuna": "San Miguel",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 285,
+    "fields": {
+      "codigo_comuna": "13130",
+      "nombre_comuna": "San Ramón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 286,
+    "fields": {
+      "codigo_comuna": "13131",
+      "nombre_comuna": "Vitacura",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 287,
+    "fields": {
+      "codigo_comuna": "13201",
+      "nombre_comuna": "Puente Alto",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 288,
+    "fields": {
+      "codigo_comuna": "13202",
+      "nombre_comuna": "Pirque",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 289,
+    "fields": {
+      "codigo_comuna": "13203",
+      "nombre_comuna": "San José de Maipo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 290,
+    "fields": {
+      "codigo_comuna": "13301",
+      "nombre_comuna": "Colina",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 291,
+    "fields": {
+      "codigo_comuna": "13302",
+      "nombre_comuna": "Lampa",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 292,
+    "fields": {
+      "codigo_comuna": "13303",
+      "nombre_comuna": "Til-Til",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 293,
+    "fields": {
+      "codigo_comuna": "13401",
+      "nombre_comuna": "San Bernardo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 294,
+    "fields": {
+      "codigo_comuna": "13402",
+      "nombre_comuna": "Buin",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 295,
+    "fields": {
+      "codigo_comuna": "13403",
+      "nombre_comuna": "Calera de Tango",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 296,
+    "fields": {
+      "codigo_comuna": "13404",
+      "nombre_comuna": "Paine",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 297,
+    "fields": {
+      "codigo_comuna": "13501",
+      "nombre_comuna": "Melipilla",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 298,
+    "fields": {
+      "codigo_comuna": "13502",
+      "nombre_comuna": "Alhué",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 299,
+    "fields": {
+      "codigo_comuna": "13503",
+      "nombre_comuna": "Curacaví",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 300,
+    "fields": {
+      "codigo_comuna": "13504",
+      "nombre_comuna": "María Pinto",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 301,
+    "fields": {
+      "codigo_comuna": "13505",
+      "nombre_comuna": "San Pedro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 302,
+    "fields": {
+      "codigo_comuna": "13601",
+      "nombre_comuna": "Talagante",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 303,
+    "fields": {
+      "codigo_comuna": "13602",
+      "nombre_comuna": "El Monte",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 304,
+    "fields": {
+      "codigo_comuna": "13603",
+      "nombre_comuna": "Isla de Maipo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 305,
+    "fields": {
+      "codigo_comuna": "13604",
+      "nombre_comuna": "Padre Hurtado",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 306,
+    "fields": {
+      "codigo_comuna": "13605",
+      "nombre_comuna": "Peñaflor",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 307,
+    "fields": {
+      "codigo_comuna": "14101",
+      "nombre_comuna": "Valdivia",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 308,
+    "fields": {
+      "codigo_comuna": "14102",
+      "nombre_comuna": "Corral",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 309,
+    "fields": {
+      "codigo_comuna": "14103",
+      "nombre_comuna": "Lanco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 310,
+    "fields": {
+      "codigo_comuna": "14104",
+      "nombre_comuna": "Los Lagos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 311,
+    "fields": {
+      "codigo_comuna": "14105",
+      "nombre_comuna": "Máfil",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 312,
+    "fields": {
+      "codigo_comuna": "14106",
+      "nombre_comuna": "Mariquina",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 313,
+    "fields": {
+      "codigo_comuna": "14107",
+      "nombre_comuna": "Paillaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 314,
+    "fields": {
+      "codigo_comuna": "14108",
+      "nombre_comuna": "Panguipulli",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 315,
+    "fields": {
+      "codigo_comuna": "14201",
+      "nombre_comuna": "La Unión",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 316,
+    "fields": {
+      "codigo_comuna": "14202",
+      "nombre_comuna": "Futrono",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 317,
+    "fields": {
+      "codigo_comuna": "14203",
+      "nombre_comuna": "Lago Ranco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 318,
+    "fields": {
+      "codigo_comuna": "14204",
+      "nombre_comuna": "Río Bueno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 319,
+    "fields": {
+      "codigo_comuna": "15101",
+      "nombre_comuna": "Arica",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 320,
+    "fields": {
+      "codigo_comuna": "15102",
+      "nombre_comuna": "Camarones",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 321,
+    "fields": {
+      "codigo_comuna": "15201",
+      "nombre_comuna": "Putre",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 322,
+    "fields": {
+      "codigo_comuna": "15202",
+      "nombre_comuna": "General Lagos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 323,
+    "fields": {
+      "codigo_comuna": "16101",
+      "nombre_comuna": "Chillán",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 324,
+    "fields": {
+      "codigo_comuna": "16102",
+      "nombre_comuna": "Bulnes",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 325,
+    "fields": {
+      "codigo_comuna": "16103",
+      "nombre_comuna": "Cobquecura",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 326,
+    "fields": {
+      "codigo_comuna": "16104",
+      "nombre_comuna": "Coelemu",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 327,
+    "fields": {
+      "codigo_comuna": "16105",
+      "nombre_comuna": "Coihueco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 328,
+    "fields": {
+      "codigo_comuna": "16106",
+      "nombre_comuna": "Chillán Viejo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 329,
+    "fields": {
+      "codigo_comuna": "16107",
+      "nombre_comuna": "El Carmen",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 330,
+    "fields": {
+      "codigo_comuna": "16108",
+      "nombre_comuna": "Ninhue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 331,
+    "fields": {
+      "codigo_comuna": "16109",
+      "nombre_comuna": "Ñiquén",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 332,
+    "fields": {
+      "codigo_comuna": "16110",
+      "nombre_comuna": "Pemuco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 333,
+    "fields": {
+      "codigo_comuna": "16111",
+      "nombre_comuna": "Pinto",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 334,
+    "fields": {
+      "codigo_comuna": "16112",
+      "nombre_comuna": "Portezuelo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 335,
+    "fields": {
+      "codigo_comuna": "16113",
+      "nombre_comuna": "Quillón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 336,
+    "fields": {
+      "codigo_comuna": "16114",
+      "nombre_comuna": "Quirihue",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 337,
+    "fields": {
+      "codigo_comuna": "16115",
+      "nombre_comuna": "Ránquil",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 338,
+    "fields": {
+      "codigo_comuna": "16116",
+      "nombre_comuna": "San Carlos",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 339,
+    "fields": {
+      "codigo_comuna": "16117",
+      "nombre_comuna": "San Fabián",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 340,
+    "fields": {
+      "codigo_comuna": "16118",
+      "nombre_comuna": "San Ignacio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 341,
+    "fields": {
+      "codigo_comuna": "16119",
+      "nombre_comuna": "San Nicolás",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 342,
+    "fields": {
+      "codigo_comuna": "16120",
+      "nombre_comuna": "Treguaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.comuna",
+    "pk": 343,
+    "fields": {
+      "codigo_comuna": "16121",
+      "nombre_comuna": "Yungay",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  }
+]

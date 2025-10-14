@@ -1,0 +1,2189 @@
+[
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 1,
+    "fields": {
+      "pais": "Afganistán",
+      "nacionalidad": "Afgano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 2,
+    "fields": {
+      "pais": "Albania",
+      "nacionalidad": "Albanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 3,
+    "fields": {
+      "pais": "Alemania",
+      "nacionalidad": "Alemán",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 4,
+    "fields": {
+      "pais": "Andorra",
+      "nacionalidad": "Andorrano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 5,
+    "fields": {
+      "pais": "Angola",
+      "nacionalidad": "Angoleño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 6,
+    "fields": {
+      "pais": "Anguila",
+      "nacionalidad": "Anguilense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 7,
+    "fields": {
+      "pais": "Antigua y Barbuda",
+      "nacionalidad": "Antiguano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 8,
+    "fields": {
+      "pais": "Arabia Saudita",
+      "nacionalidad": "Saudí o saudita",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 9,
+    "fields": {
+      "pais": "Argelia",
+      "nacionalidad": "Argelino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 10,
+    "fields": {
+      "pais": "Argentina",
+      "nacionalidad": "Argentino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 11,
+    "fields": {
+      "pais": "Armenia",
+      "nacionalidad": "Armenio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 12,
+    "fields": {
+      "pais": "Aruba",
+      "nacionalidad": "Arubeño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 13,
+    "fields": {
+      "pais": "Australia",
+      "nacionalidad": "Australiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 14,
+    "fields": {
+      "pais": "Austria",
+      "nacionalidad": "Austriaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 15,
+    "fields": {
+      "pais": "Azerbaiyán",
+      "nacionalidad": "Azerbaiyano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 16,
+    "fields": {
+      "pais": "Bahamas",
+      "nacionalidad": "Bahameño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 17,
+    "fields": {
+      "pais": "Bangladés",
+      "nacionalidad": "Bangladesí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 18,
+    "fields": {
+      "pais": "Barbados",
+      "nacionalidad": "Barbadense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 19,
+    "fields": {
+      "pais": "Baréin",
+      "nacionalidad": "Bareiní",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 20,
+    "fields": {
+      "pais": "Bélgica",
+      "nacionalidad": "Belga",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 21,
+    "fields": {
+      "pais": "Belice",
+      "nacionalidad": "Beliceño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 22,
+    "fields": {
+      "pais": "Benín",
+      "nacionalidad": "Beninés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 23,
+    "fields": {
+      "pais": "Bermudas",
+      "nacionalidad": "Bermudeño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 24,
+    "fields": {
+      "pais": "Bielorrusia",
+      "nacionalidad": "Bielorruso",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 25,
+    "fields": {
+      "pais": "Estado Plurinacional de Bolivia",
+      "nacionalidad": "Boliviano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 26,
+    "fields": {
+      "pais": "Bosnia y Herzegovina",
+      "nacionalidad": "Bosnio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 27,
+    "fields": {
+      "pais": "Botsuana",
+      "nacionalidad": "Botsuano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 28,
+    "fields": {
+      "pais": "Brasil",
+      "nacionalidad": "Brasileño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 29,
+    "fields": {
+      "pais": "Brunéi Darussalam",
+      "nacionalidad": "Bruneano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 30,
+    "fields": {
+      "pais": "Bulgaria",
+      "nacionalidad": "Búlgaro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 31,
+    "fields": {
+      "pais": "Burkina Faso",
+      "nacionalidad": "Burkinés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 32,
+    "fields": {
+      "pais": "Burundi",
+      "nacionalidad": "Burundés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 33,
+    "fields": {
+      "pais": "Bután",
+      "nacionalidad": "Butanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 34,
+    "fields": {
+      "pais": "Cabo Verde",
+      "nacionalidad": "Caboverdiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 35,
+    "fields": {
+      "pais": "Camboya",
+      "nacionalidad": "Camboyano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 36,
+    "fields": {
+      "pais": "Camerún",
+      "nacionalidad": "Camerunés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 37,
+    "fields": {
+      "pais": "Canadá",
+      "nacionalidad": "Canadiense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 38,
+    "fields": {
+      "pais": "Chad",
+      "nacionalidad": "Chadiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 39,
+    "fields": {
+      "pais": "Chile",
+      "nacionalidad": "Chileno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 40,
+    "fields": {
+      "pais": "República Popular China",
+      "nacionalidad": "Chino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 41,
+    "fields": {
+      "pais": "Chipre",
+      "nacionalidad": "Chipriota",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 42,
+    "fields": {
+      "pais": "Colombia",
+      "nacionalidad": "Colombiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 43,
+    "fields": {
+      "pais": "Comoras",
+      "nacionalidad": "Comorense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 44,
+    "fields": {
+      "pais": "La República Democrática del Congo",
+      "nacionalidad": "Congoleño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 45,
+    "fields": {
+      "pais": "Congo",
+      "nacionalidad": "Congoleño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 46,
+    "fields": {
+      "pais": "República de Corea",
+      "nacionalidad": "Surcoreano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 47,
+    "fields": {
+      "pais": "República Democrática Popular de Corea",
+      "nacionalidad": "Norcoreano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 48,
+    "fields": {
+      "pais": "Costa de Marfil",
+      "nacionalidad": "Marfileño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 49,
+    "fields": {
+      "pais": "Costa Rica",
+      "nacionalidad": "Costarricense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 50,
+    "fields": {
+      "pais": "Croacia",
+      "nacionalidad": "Croata",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 51,
+    "fields": {
+      "pais": "Cuba",
+      "nacionalidad": "Cubano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 52,
+    "fields": {
+      "pais": "Curazao",
+      "nacionalidad": "Curazoleño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 53,
+    "fields": {
+      "pais": "Dinamarca",
+      "nacionalidad": "Danés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 54,
+    "fields": {
+      "pais": "Dominica",
+      "nacionalidad": "Dominiqués",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 55,
+    "fields": {
+      "pais": "Ecuador",
+      "nacionalidad": "Ecuatoriano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 56,
+    "fields": {
+      "pais": "Egipto",
+      "nacionalidad": "Egipcio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 57,
+    "fields": {
+      "pais": "El Salvador",
+      "nacionalidad": "Salvadoreño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 58,
+    "fields": {
+      "pais": "Emiratos Árabes Unidos",
+      "nacionalidad": "Emiratí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 59,
+    "fields": {
+      "pais": "Eritrea",
+      "nacionalidad": "Eritreo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 60,
+    "fields": {
+      "pais": "Eslovaquia",
+      "nacionalidad": "Eslovaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 61,
+    "fields": {
+      "pais": "Eslovenia",
+      "nacionalidad": "Esloveno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 62,
+    "fields": {
+      "pais": "España",
+      "nacionalidad": "Español",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 63,
+    "fields": {
+      "pais": "Estados Unidos",
+      "nacionalidad": "Estadounidense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 64,
+    "fields": {
+      "pais": "Estonia",
+      "nacionalidad": "Estonio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 65,
+    "fields": {
+      "pais": "Etiopía",
+      "nacionalidad": "Etíope",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 66,
+    "fields": {
+      "pais": "Federacion Rusa",
+      "nacionalidad": "Ruso",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 67,
+    "fields": {
+      "pais": "Filipinas",
+      "nacionalidad": "Filipino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 68,
+    "fields": {
+      "pais": "Finlandia",
+      "nacionalidad": "Finlandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 69,
+    "fields": {
+      "pais": "Fiyi",
+      "nacionalidad": "Fiyiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 70,
+    "fields": {
+      "pais": "Francia",
+      "nacionalidad": "Francés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 71,
+    "fields": {
+      "pais": "Gabón",
+      "nacionalidad": "Gabonés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 72,
+    "fields": {
+      "pais": "Gambia",
+      "nacionalidad": "Gambiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 73,
+    "fields": {
+      "pais": "Georgia",
+      "nacionalidad": "Georgiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 74,
+    "fields": {
+      "pais": "Ghana",
+      "nacionalidad": "Ghanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 75,
+    "fields": {
+      "pais": "Gibraltar",
+      "nacionalidad": "Gibraltareño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 76,
+    "fields": {
+      "pais": "Granada",
+      "nacionalidad": "Granadino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 77,
+    "fields": {
+      "pais": "Grecia",
+      "nacionalidad": "Griego",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 78,
+    "fields": {
+      "pais": "Groenlandia",
+      "nacionalidad": "Groenlandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 79,
+    "fields": {
+      "pais": "Guadalupe",
+      "nacionalidad": "Guadalupeño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 80,
+    "fields": {
+      "pais": "Guam",
+      "nacionalidad": "Guameño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 81,
+    "fields": {
+      "pais": "Guatemala",
+      "nacionalidad": "Guatemalteco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 82,
+    "fields": {
+      "pais": "Guayana Francesa",
+      "nacionalidad": "Francoguayanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 83,
+    "fields": {
+      "pais": "Guernsey",
+      "nacionalidad": "Guernesiais",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 84,
+    "fields": {
+      "pais": "Guinea-Bisáu",
+      "nacionalidad": "Guineano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 85,
+    "fields": {
+      "pais": "Guinea Ecuatorial",
+      "nacionalidad": "Ecuatoguineano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 86,
+    "fields": {
+      "pais": "Guinea",
+      "nacionalidad": "Guineano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 87,
+    "fields": {
+      "pais": "Guyana",
+      "nacionalidad": "Guyanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 88,
+    "fields": {
+      "pais": "Haití",
+      "nacionalidad": "Haitiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 89,
+    "fields": {
+      "pais": "Honduras",
+      "nacionalidad": "Hondureño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 90,
+    "fields": {
+      "pais": "Hong Kong",
+      "nacionalidad": "Hongkonés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 91,
+    "fields": {
+      "pais": "Hungría",
+      "nacionalidad": "Húngaro",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 92,
+    "fields": {
+      "pais": "India",
+      "nacionalidad": "Indio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 93,
+    "fields": {
+      "pais": "Indonesia",
+      "nacionalidad": "Indonesio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 94,
+    "fields": {
+      "pais": "Irak",
+      "nacionalidad": "Iraquí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 95,
+    "fields": {
+      "pais": "República Islámica de Irán",
+      "nacionalidad": "Iraní",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 96,
+    "fields": {
+      "pais": "Irlanda",
+      "nacionalidad": "Irlandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 97,
+    "fields": {
+      "pais": "Isla de Man",
+      "nacionalidad": "Manés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 98,
+    "fields": {
+      "pais": "Isla de Navidad",
+      "nacionalidad": "Navideño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 99,
+    "fields": {
+      "pais": "Isla Norfolk",
+      "nacionalidad": "Norfolkense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 100,
+    "fields": {
+      "pais": "Islandia",
+      "nacionalidad": "Islandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 101,
+    "fields": {
+      "pais": "Islas Åland",
+      "nacionalidad": "Ålandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 102,
+    "fields": {
+      "pais": "Islas Caimán",
+      "nacionalidad": "Caimanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 103,
+    "fields": {
+      "pais": "Islas Cocos (Keeling)",
+      "nacionalidad": "Cocano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 104,
+    "fields": {
+      "pais": "Islas Cook",
+      "nacionalidad": "Cookiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 105,
+    "fields": {
+      "pais": "Islas Falkland (Malvinas)",
+      "nacionalidad": "Malvinense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 106,
+    "fields": {
+      "pais": "Islas Feroe",
+      "nacionalidad": "Feroés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 107,
+    "fields": {
+      "pais": "Islas Marianas del Norte",
+      "nacionalidad": "Mariano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 108,
+    "fields": {
+      "pais": "Islas Marshall",
+      "nacionalidad": "Marshalés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 109,
+    "fields": {
+      "pais": "Islas Salomón",
+      "nacionalidad": "Salomonense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 110,
+    "fields": {
+      "pais": "Islas Turcas y Caicos",
+      "nacionalidad": "Turcocaiqueño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 111,
+    "fields": {
+      "pais": "Islas Ultramarinas Menores de Estados Unidos",
+      "nacionalidad": "N/E",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 112,
+    "fields": {
+      "pais": "Islas Virgenes Británicas",
+      "nacionalidad": "Virgenense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 113,
+    "fields": {
+      "pais": "Islas Virgenes de Los Estados Unidos",
+      "nacionalidad": "Virgenense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 114,
+    "fields": {
+      "pais": "Israel",
+      "nacionalidad": "Israelí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 115,
+    "fields": {
+      "pais": "Italia",
+      "nacionalidad": "Italiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 116,
+    "fields": {
+      "pais": "Jamaica",
+      "nacionalidad": "Jamaicano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 117,
+    "fields": {
+      "pais": "Japón",
+      "nacionalidad": "Japonés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 118,
+    "fields": {
+      "pais": "Jersey",
+      "nacionalidad": "Jerseyés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 119,
+    "fields": {
+      "pais": "Jordania",
+      "nacionalidad": "Jordano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 120,
+    "fields": {
+      "pais": "Kazajistán",
+      "nacionalidad": "Kazajo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 121,
+    "fields": {
+      "pais": "Kenia",
+      "nacionalidad": "Keniano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 122,
+    "fields": {
+      "pais": "Kirguistán",
+      "nacionalidad": "Kirguís;Kirguiso",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 123,
+    "fields": {
+      "pais": "Kiribati",
+      "nacionalidad": "Kiribatiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 124,
+    "fields": {
+      "pais": "Kuwait",
+      "nacionalidad": "Kuwaití",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 125,
+    "fields": {
+      "pais": "Lesoto",
+      "nacionalidad": "Lesotense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 126,
+    "fields": {
+      "pais": "Letonia",
+      "nacionalidad": "Letón",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 127,
+    "fields": {
+      "pais": "Líbano",
+      "nacionalidad": "Libanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 128,
+    "fields": {
+      "pais": "Liberia",
+      "nacionalidad": "Liberiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 129,
+    "fields": {
+      "pais": "Libia",
+      "nacionalidad": "Libio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 130,
+    "fields": {
+      "pais": "Liechtenstein",
+      "nacionalidad": "Liechtensteiniano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 131,
+    "fields": {
+      "pais": "Lituania",
+      "nacionalidad": "Lituano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 132,
+    "fields": {
+      "pais": "Luxemburgo",
+      "nacionalidad": "Luxemburgués",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 133,
+    "fields": {
+      "pais": "Macao",
+      "nacionalidad": "Macaense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 134,
+    "fields": {
+      "pais": "La Antigua República Yugoslava de Macedonia",
+      "nacionalidad": "Macedonio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 135,
+    "fields": {
+      "pais": "Madagascar",
+      "nacionalidad": "Malgache",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 136,
+    "fields": {
+      "pais": "Malasia",
+      "nacionalidad": "Malasio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 137,
+    "fields": {
+      "pais": "Malaui",
+      "nacionalidad": "Malauí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 138,
+    "fields": {
+      "pais": "Maldivas",
+      "nacionalidad": "Maldivo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 139,
+    "fields": {
+      "pais": "Malí",
+      "nacionalidad": "Maliense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 140,
+    "fields": {
+      "pais": "Malta",
+      "nacionalidad": "Maltés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 141,
+    "fields": {
+      "pais": "Marruecos",
+      "nacionalidad": "Marroquí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 142,
+    "fields": {
+      "pais": "Martinica",
+      "nacionalidad": "Martiniqués",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 143,
+    "fields": {
+      "pais": "Mauricio",
+      "nacionalidad": "Mauriciano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 144,
+    "fields": {
+      "pais": "Mauritania",
+      "nacionalidad": "Mauritano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 145,
+    "fields": {
+      "pais": "Mayotte",
+      "nacionalidad": "Mayotés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 146,
+    "fields": {
+      "pais": "México",
+      "nacionalidad": "Mexicano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 147,
+    "fields": {
+      "pais": "Estados Federados de Micronesia",
+      "nacionalidad": "Micronesio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 148,
+    "fields": {
+      "pais": "República de Moldavia",
+      "nacionalidad": "Moldavo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 149,
+    "fields": {
+      "pais": "Mónaco",
+      "nacionalidad": "Monegasco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 150,
+    "fields": {
+      "pais": "Mongolia",
+      "nacionalidad": "Mongol",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 151,
+    "fields": {
+      "pais": "Montenegro",
+      "nacionalidad": "Montenegrino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 152,
+    "fields": {
+      "pais": "Montserrat",
+      "nacionalidad": "Monserratino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 153,
+    "fields": {
+      "pais": "Mozambique",
+      "nacionalidad": "Mozambiqueño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 154,
+    "fields": {
+      "pais": "Myanmar",
+      "nacionalidad": "Birmano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 155,
+    "fields": {
+      "pais": "Namibia",
+      "nacionalidad": "Namibio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 156,
+    "fields": {
+      "pais": "Nauru",
+      "nacionalidad": "Nauruano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 157,
+    "fields": {
+      "pais": "Nepal",
+      "nacionalidad": "Nepalés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 158,
+    "fields": {
+      "pais": "Nicaragua",
+      "nacionalidad": "Nicaragüense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 159,
+    "fields": {
+      "pais": "Nigeria",
+      "nacionalidad": "Nigeriano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 160,
+    "fields": {
+      "pais": "Níger",
+      "nacionalidad": "Nigerino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 161,
+    "fields": {
+      "pais": "Niue",
+      "nacionalidad": "Niueño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 162,
+    "fields": {
+      "pais": "Noruega",
+      "nacionalidad": "Noruego",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 163,
+    "fields": {
+      "pais": "Nueva Caledonia",
+      "nacionalidad": "Neocaledonio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 164,
+    "fields": {
+      "pais": "Nueva Zelanda",
+      "nacionalidad": "Neozelandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 165,
+    "fields": {
+      "pais": "Omán",
+      "nacionalidad": "Omaní",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 166,
+    "fields": {
+      "pais": "Holanda/Países Bajos",
+      "nacionalidad": "Neerlandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 167,
+    "fields": {
+      "pais": "Pakistán",
+      "nacionalidad": "Pakistaní",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 168,
+    "fields": {
+      "pais": "Palaos",
+      "nacionalidad": "Palauano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 169,
+    "fields": {
+      "pais": "Estado de Palestina",
+      "nacionalidad": "Palestino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 170,
+    "fields": {
+      "pais": "Panamá",
+      "nacionalidad": "Panameño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 171,
+    "fields": {
+      "pais": "Papúa Nueva Guinea",
+      "nacionalidad": "Papú",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 172,
+    "fields": {
+      "pais": "Paraguay",
+      "nacionalidad": "Paraguayo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 173,
+    "fields": {
+      "pais": "Perú",
+      "nacionalidad": "Peruano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 174,
+    "fields": {
+      "pais": "Pitcairn",
+      "nacionalidad": "Pitcairnés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 175,
+    "fields": {
+      "pais": "Polinesia Francesa",
+      "nacionalidad": "Francopolinesio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 176,
+    "fields": {
+      "pais": "Polonia",
+      "nacionalidad": "Polaco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 177,
+    "fields": {
+      "pais": "Portugal",
+      "nacionalidad": "Portugués",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 178,
+    "fields": {
+      "pais": "Puerto Rico",
+      "nacionalidad": "Puertorriqueño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 179,
+    "fields": {
+      "pais": "Qatar",
+      "nacionalidad": "Catarí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 180,
+    "fields": {
+      "pais": "Reino Unido",
+      "nacionalidad": "Británico",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 181,
+    "fields": {
+      "pais": "República Centroafricana",
+      "nacionalidad": "Centroafricano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 182,
+    "fields": {
+      "pais": "República Checa",
+      "nacionalidad": "Checo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 183,
+    "fields": {
+      "pais": "República Democrática Popular Lao",
+      "nacionalidad": "Laosiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 184,
+    "fields": {
+      "pais": "República Dominicana",
+      "nacionalidad": "Dominicano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 185,
+    "fields": {
+      "pais": "Reunión",
+      "nacionalidad": "Reunionés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 186,
+    "fields": {
+      "pais": "Ruanda",
+      "nacionalidad": "Ruandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 187,
+    "fields": {
+      "pais": "Rumania",
+      "nacionalidad": "Rumano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 188,
+    "fields": {
+      "pais": "Sahara Occidental",
+      "nacionalidad": "Saharaui",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 189,
+    "fields": {
+      "pais": "Samoa Americana",
+      "nacionalidad": "Samoamericano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 190,
+    "fields": {
+      "pais": "Samoa",
+      "nacionalidad": "Samoano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 191,
+    "fields": {
+      "pais": "San Bartolomé",
+      "nacionalidad": "Sambartolomeano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 192,
+    "fields": {
+      "pais": "San Cristóbal y Nieves",
+      "nacionalidad": "Cristobaleño",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 193,
+    "fields": {
+      "pais": "San Marino",
+      "nacionalidad": "Sanmarinense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 194,
+    "fields": {
+      "pais": "San Martín (Parte Francesa)",
+      "nacionalidad": "Sanmartitense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 195,
+    "fields": {
+      "pais": "San Pedro y Miquelón",
+      "nacionalidad": "Ssampedrino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 196,
+    "fields": {
+      "pais": "San Vicente y Las Granadinas",
+      "nacionalidad": "Sanvicentino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 197,
+    "fields": {
+      "pais": "Ascensión y Tristán de Acuña Santa Helena",
+      "nacionalidad": "Santaheleno",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 198,
+    "fields": {
+      "pais": "Santa Lucía",
+      "nacionalidad": "Santalucense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 199,
+    "fields": {
+      "pais": "Santa Sede (Ciudad Estado Vaticano)",
+      "nacionalidad": "Vaticano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 200,
+    "fields": {
+      "pais": "Santo Tomé y Principe",
+      "nacionalidad": "Santotomense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 201,
+    "fields": {
+      "pais": "Senegal",
+      "nacionalidad": "Senegalés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 202,
+    "fields": {
+      "pais": "Serbia",
+      "nacionalidad": "Serbio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 203,
+    "fields": {
+      "pais": "Seychelles",
+      "nacionalidad": "Seychellense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 204,
+    "fields": {
+      "pais": "Sierra Leona",
+      "nacionalidad": "Sierraleonés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 205,
+    "fields": {
+      "pais": "Singapur",
+      "nacionalidad": "Singapurense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 206,
+    "fields": {
+      "pais": "Sint Maarten (Parte Neerlandesa)",
+      "nacionalidad": "Sanmartitense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 207,
+    "fields": {
+      "pais": "República Arabe de Siria",
+      "nacionalidad": "Sirio",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 208,
+    "fields": {
+      "pais": "Somalia",
+      "nacionalidad": "Somalí",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 209,
+    "fields": {
+      "pais": "Sri Lanka",
+      "nacionalidad": "Ceilanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 210,
+    "fields": {
+      "pais": "Suazilandia",
+      "nacionalidad": "Suazi",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 211,
+    "fields": {
+      "pais": "Sudáfrica",
+      "nacionalidad": "Sudafricano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 212,
+    "fields": {
+      "pais": "Sudán del Sur",
+      "nacionalidad": "Sursudanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 213,
+    "fields": {
+      "pais": "Sudán",
+      "nacionalidad": "Sudanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 214,
+    "fields": {
+      "pais": "Suecia",
+      "nacionalidad": "Sueco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 215,
+    "fields": {
+      "pais": "Suiza",
+      "nacionalidad": "Suizo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 216,
+    "fields": {
+      "pais": "Surinam",
+      "nacionalidad": "Surinamés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 217,
+    "fields": {
+      "pais": "Svalbard y Jan Mayen",
+      "nacionalidad": "Svalbarense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 218,
+    "fields": {
+      "pais": "Tailandia",
+      "nacionalidad": "Tailandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 219,
+    "fields": {
+      "pais": "Provincia de China Taiwán",
+      "nacionalidad": "Taiwanés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 220,
+    "fields": {
+      "pais": "República Unida de Tanzania",
+      "nacionalidad": "Tanzano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 221,
+    "fields": {
+      "pais": "Tayikistán",
+      "nacionalidad": "Tayiko",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 222,
+    "fields": {
+      "pais": "Territorio Británico del Océano Índico",
+      "nacionalidad": "Chaguense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 223,
+    "fields": {
+      "pais": "Timor-Leste",
+      "nacionalidad": "Timorense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 224,
+    "fields": {
+      "pais": "Togo",
+      "nacionalidad": "Togolés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 225,
+    "fields": {
+      "pais": "Tokelau",
+      "nacionalidad": "Tokelauense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 226,
+    "fields": {
+      "pais": "Tonga",
+      "nacionalidad": "Tongano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 227,
+    "fields": {
+      "pais": "Trinidad y Tobago",
+      "nacionalidad": "Trinitense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 228,
+    "fields": {
+      "pais": "Túnez",
+      "nacionalidad": "Tunecino",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 229,
+    "fields": {
+      "pais": "Turkmenistán",
+      "nacionalidad": "Turcomano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 230,
+    "fields": {
+      "pais": "Turquía",
+      "nacionalidad": "Turco",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 231,
+    "fields": {
+      "pais": "Tuvalu",
+      "nacionalidad": "Tuvaluano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 232,
+    "fields": {
+      "pais": "Ucrania",
+      "nacionalidad": "Ucraniano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 233,
+    "fields": {
+      "pais": "Uganda",
+      "nacionalidad": "Ugandés",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 234,
+    "fields": {
+      "pais": "Uruguay",
+      "nacionalidad": "Uruguayo",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 235,
+    "fields": {
+      "pais": "Uzbekistán",
+      "nacionalidad": "Uzbeko",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 236,
+    "fields": {
+      "pais": "Vanuatu",
+      "nacionalidad": "Vanuatuense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 237,
+    "fields": {
+      "pais": "República Bolivariana de Venezuela",
+      "nacionalidad": "Venezolano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 238,
+    "fields": {
+      "pais": "Viet Nam",
+      "nacionalidad": "Vietnamita",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 239,
+    "fields": {
+      "pais": "Wallis y Futuna",
+      "nacionalidad": "Walisiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 240,
+    "fields": {
+      "pais": "Yemen",
+      "nacionalidad": "Yemení",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 241,
+    "fields": {
+      "pais": "Yibuti",
+      "nacionalidad": "Yibutiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 242,
+    "fields": {
+      "pais": "Zambia",
+      "nacionalidad": "Zambiano",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.nacionalidad",
+    "pk": 243,
+    "fields": {
+      "pais": "Zimbabue",
+      "nacionalidad": "Zimbabuense",
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  }
+]

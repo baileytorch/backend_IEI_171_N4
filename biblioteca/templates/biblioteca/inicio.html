@@ -1,0 +1,145 @@
+{% extends "plantilla_base.html" %} {% block cabecera %}
+</br>
+<div class="row">
+  <div class="col-12 text-center">
+    <h1>Sistema de Gestión de Biblioteca</h1>
+  </div>
+</div>
+{% endblock %} {% block content %}{% load iconic %}
+
+<div class="container">
+  <div class="row">
+    <figure>
+      <blockquote class="blockquote">
+        <p class="mb-0">
+          Hay más tesoros en los libros que en todo el botín de los piratas de
+          la Isla del Tesoro.
+        </p>
+      </blockquote>
+      <figcaption class="blockquote-footer">
+        Walt Disney (1901-1966)
+        <cite title="Source Title"
+          >Productor, director y guionista estadounidense.</cite
+        >
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="row">
+  <div class="row container d-flex justify-content-center">
+    <div class="col-4 d-flex justify-content-center">
+      <a class="text-decoration-none" href="biblioteca/bibliotecas/">
+        <div
+          class="card border-secondary mb-3 text-center"
+          style="max-width: 20rem"
+        >
+          <div class="card-header">{% iconic_icon "bank" size=100 %}</div>
+          <div class="card-body">
+            <h4 class="card-title">Biblioteca</h4>
+            <p class="card-text">
+              Información general de la biblioteca actual.
+            </p>
+          </div>
+          <div class="card-footer text-muted"></div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-4 d-flex justify-content-center">
+      <a class="text-decoration-none" href="biblioteca/autores/">
+        <div
+          class="card border-secondary mb-3 text-center"
+          style="max-width: 20rem"
+        >
+          <div class="card-header">{% iconic_icon "user" size=100 %}</div>
+          <div class="card-body">
+            <h4 class="card-title">Gestión de Autores</h4>
+            <p class="card-text">
+              Gestione completamente los autores de las obras de la Biblioteca.
+            </p>
+          </div>
+          <div class="card-footer text-muted"></div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-4 d-flex justify-content-center">
+      <a class="text-decoration-none" href="biblioteca/libros/">
+        <div
+          class="card border-secondary mb-3 text-center"
+          style="max-width: 20rem"
+        >
+          <div class="card-header">{% iconic_icon "book" size=100 %}</div>
+          <div class="card-body">
+            <h4 class="card-title">Gestión de Libros</h4>
+            <p class="card-text">
+              Control de libros y recursos varios de la biblioteca.
+            </p>
+          </div>
+          <div class="card-footer text-muted"></div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+</br>
+  <div class="row container d-flex justify-content-center">
+    <div class="col-4 d-flex justify-content-center">
+      <a class="text-decoration-none" href="biblioteca/lectores/">
+        <div
+          class="card border-secondary mb-3 text-center"
+          style="max-width: 20rem"
+        >
+          <div class="card-header">{% iconic_icon "users" size=100 %}</div>
+          <div class="card-body">
+            <h4 class="card-title">Gestión de Lectores</h4>
+            <p class="card-text">
+              Crear, editar y gestionar el comportamiento de los lectores.
+            </p>
+          </div>
+          <div class="card-footer text-muted"></div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-4 d-flex justify-content-center">
+      <a class="text-decoration-none" href="biblioteca/prestamos/">
+        <div
+          class="card border-secondary mb-3 text-center"
+          style="max-width: 20rem"
+        >
+          <div class="card-header">{% iconic_icon "share" size=100 %}</div>
+          <div class="card-body">
+            <h4 class="card-title">Préstamo de Libros</h4>
+            <p class="card-text">
+              Manejo de préstamos y devoluciones de libros.
+            </p>
+          </div>
+          <div class="card-footer text-muted"></div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-4 d-flex justify-content-center">
+      <a class="text-decoration-none" href="#">
+        <div
+          class="card border-secondary mb-3 text-center"
+          style="max-width: 20rem"
+        >
+          <div class="card-header">{% iconic_icon "settings" size=100 %}</div>
+          <div class="card-body">
+            <h4 class="card-title">Configuración</h4>
+            <p class="card-text">
+              Configuración general del sistema y parámetros del sistema.
+            </p>
+          </div>
+          <div class="card-footer text-muted"></div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<script src="" async defer></script>
+{% endblock %}

@@ -1,0 +1,9 @@
+{% block content %}
+<form method="post">
+  {% csrf_token %} {{ form.as_p }} {% if form.errors %}
+  <p>Registro incorrecto. Inténtelo nuevamente.</p>
+
+  {% endif %}
+  <button type="submit">Register</button>
+</form>
+{% endblock %}

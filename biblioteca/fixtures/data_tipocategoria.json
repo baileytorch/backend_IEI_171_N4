@@ -1,0 +1,110 @@
+[
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 1,
+    "fields": {
+      "tipo_categoria": "Encuadernación",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 2,
+    "fields": {
+      "tipo_categoria": "Temática",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 3,
+    "fields": {
+      "tipo_categoria": "Literatura",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 4,
+    "fields": {
+      "tipo_categoria": "Consulta y Referencia",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 5,
+    "fields": {
+      "tipo_categoria": "Artístico e Ilustrado",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 6,
+    "fields": {
+      "tipo_categoria": "Divulgativo",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 7,
+    "fields": {
+      "tipo_categoria": "Texto",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 8,
+    "fields": {
+      "tipo_categoria": "Técnico y Especializado",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 9,
+    "fields": {
+      "tipo_categoria": "Práctico o Manual",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 10,
+    "fields": {
+      "tipo_categoria": "Autoayuda y Superación Personal",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 11,
+    "fields": {
+      "tipo_categoria": "Religioso y Sagrado",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.tipocategoria",
+    "pk": 12,
+    "fields": {
+      "tipo_categoria": "Infantil",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  }
+]

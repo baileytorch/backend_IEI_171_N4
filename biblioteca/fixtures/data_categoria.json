@@ -1,0 +1,167 @@
+[
+  {
+    "model": "biblioteca.categoria",
+    "pk": 1,
+    "fields": {
+      "id_tipo_categoria": 1,
+      "categoria": "Tapa Dura o Cartoné",
+      "descripcion": "Cubiertas de cartón rígido y resistente, unido al papel del libro mediante el pegado de las guardas.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 2,
+    "fields": {
+      "id_tipo_categoria": 1,
+      "categoria": "Tapa Blanda o Rústica",
+      "descripcion": "Cubiertas de cartón blando o cartulina, adherido al papel mediante encolado o pegado.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 3,
+    "fields": {
+      "id_tipo_categoria": 1,
+      "categoria": "Espiral o Wire-o",
+      "descripcion": "Cubiertas de material flexible, unidas al resto mediante una serie de espirales metálicas o plásticas que juntan el material a través de una serie de agujeros en un extremo.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 4,
+    "fields": {
+      "id_tipo_categoria": 1,
+      "categoria": "Grapados o a Caballete",
+      "descripcion": "Cubiertas son de papel o cartulina, se fijan al resto del libro mediante grapas o broches.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 5,
+    "fields": {
+      "id_tipo_categoria": 1,
+      "categoria": "Electrónicos o Digitales",
+      "descripcion": "No tienen cubiertas, ni encuadernación, pues existen solo como un archivo informático.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 6,
+    "fields": {
+      "id_tipo_categoria": 3,
+      "categoria": "Narrativa",
+      "descripcion": "Un narrador cuenta una historia, ya sea de un modo realista o fantástico, pero siempre ficcional. Cuento, es un relato es breve e intenso. Novela, es un relato largo y enrevesado.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 7,
+    "fields": {
+      "id_tipo_categoria": 3,
+      "categoria": "Poesía",
+      "descripcion": "Un hablante poético describe algún tipo de experiencia amorosa o existencial. Para esto emplea un lenguaje subjetivo, cargado de imágenes y metáforas.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 8,
+    "fields": {
+      "id_tipo_categoria": 3,
+      "categoria": "Dramaturgia",
+      "descripcion": "Se narra una situación a partir de la interacción de los personajes involucrados. Las obras pueden ser representadas teatralmente. Se clasifican de acuerdo al tipo de historia que relatan en tragedias, dramas y comedias",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 9,
+    "fields": {
+      "id_tipo_categoria": 3,
+      "categoria": "Ensayo",
+      "descripcion": "El autor reflexiona libre y subjetivamente sobre un tema, empleando para esto diferentes abordajes temáticos y conceptuales.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 10,
+    "fields": {
+      "id_tipo_categoria": 3,
+      "categoria": "No-Ficción",
+      "descripcion": "Normalmente se aborda subjetivamente alguna historia o tema real, bajo la premisa de apegarse lo más posible a la verdad de los hechos e incurrir de manera controlada en la imaginación.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 11,
+    "fields": {
+      "id_tipo_categoria": 4,
+      "categoria": "Diccionario/Enciclopedia",
+      "descripcion": "Se utilizan para una búsqueda o aclaratoria específica.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 12,
+    "fields": {
+      "id_tipo_categoria": 4,
+      "categoria": "Glosario",
+      "descripcion": "Se utilizan para una búsqueda o aclaratoria específica de un tema particular.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 13,
+    "fields": {
+      "id_tipo_categoria": 4,
+      "categoria": "Atlas/Mapas",
+      "descripcion": "Se utilizan para una búsqueda o aclaratoria específica de mapas del mundo o espaciales.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 14,
+    "fields": {
+      "id_tipo_categoria": 5,
+      "categoria": "Gran Formato",
+      "descripcion": "Abordan un artista, período artístico o momento histórico determinados, junto con textos de algún especialista en la materia.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  },
+  {
+    "model": "biblioteca.categoria",
+    "pk": 15,
+    "fields": {
+      "id_tipo_categoria": 5,
+      "categoria": "cómics, libros álbum y novelas gráficas",
+      "descripcion": "Un autor o un grupo de colaboradores plasman un relato generalmente de ficción, a través de diferentes técnicas de dibujo e ilustración.",
+      "habilitado": true,
+      "updated_at": "2025-09-05T03:13:00Z"
+    }
+  }
+]
