@@ -45,9 +45,9 @@ urlpatterns = [
 
     # URL's para documentación de API
     path('apidocs/', schema_view.with_ui('swagger',
-                                         cache_timeout=0), name='schema-swagger-ui'),
+         cache_timeout=0), name='schema-swagger-ui'),
     path('redocs/', schema_view.with_ui('redoc',
-                                        cache_timeout=0), name='schema-redoc'),
+         cache_timeout=0), name='schema-redoc'),
 
     # URL's de autenticación
     path('accounts/', include('django.contrib.auth.urls')),

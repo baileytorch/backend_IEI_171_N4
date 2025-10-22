@@ -1,3 +1,13 @@
 .logout {
   text-decoration: none;
 }
+.contenido_principal {
+  background-color: aliceblue;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.test {
+  background-color: aqua;
+}

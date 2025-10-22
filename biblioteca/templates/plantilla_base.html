@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="{% static 'css/bootstrap_cyborg.css' %}" />
     <link rel="stylesheet" href="{% static 'css/estilos.css' %}" />
+    {% block extra_css %}{% endblock %}
   </head>
 
   <body>
@@ -65,18 +66,6 @@
                 </div>
               </li>
             </ul>
-            {% comment %}
-            <form class="d-flex">
-              <input
-                class="form-control me-sm-2"
-                type="search"
-                placeholder="Búsqueda"
-              />
-              <button class="btn btn-secondary my-2 my-sm-0" type="submit">
-                Buscar
-              </button>
-            </form>
-            {% endcomment %}
             <a href="{% url 'logout' %}" class="logout nav-link"
               >Salir {% iconic_icon "log-out" %}</a
             >
@@ -93,9 +82,11 @@
     </header>
 
     <main>
-      {% block content %}
-      <!-- El contenido específico de cada página se insertará aquí -->
-      {% endblock %}
+      <div class="contenido_principal">
+        {% block contenido %}
+        <!-- El contenido específico de cada página se insertará aquí -->
+        {% endblock %}
+      </div>
     </main>
 
     <hr />
