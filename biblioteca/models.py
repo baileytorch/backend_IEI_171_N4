@@ -16,8 +16,9 @@ def validar_rut(rut):
 
 
 def validar_mayoria_edad(fecha_nacimiento):
-    edad = datetime.datetime.year - fecha_nacimiento.year
-    if (fecha_nacimiento.month, fecha_nacimiento.day) > (datetime.datetime.month, datetime.datetime.day):
+    fecha_actual = datetime.datetime.today()
+    edad = fecha_actual.year - fecha_nacimiento.year
+    if (fecha_nacimiento.month, fecha_nacimiento.day) > (fecha_actual.month, fecha_actual.day):
         edad -= 1
     if edad < 18:
         raise ValidationError('Debe ser mayor de edad...')
