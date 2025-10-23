@@ -1,9 +1,26 @@
 from django.db import models
+from rutificador import Rut
+from django.core.exceptions import ValidationError
 import datetime
 
 ahora = datetime.datetime.now
 
 # Create your models here.
+
+
+def validar_rut(rut):
+    try:
+        rut_valido = Rut(rut)
+    except:
+        raise ValidationError('Dígito verificador NO corresponde.')
+
+
+def validar_mayoria_edad(fecha_nacimiento):
+    edad = datetime.datetime.year - fecha_nacimiento.year
+    if (fecha_nacimiento.month, fecha_nacimiento.day) > (datetime.datetime.month, datetime.datetime.day):
+        edad -= 1
+    if edad < 18:
+        raise ValidationError('Debe ser mayor de edad...')
 
 
 class Nacionalidad(models.Model):
@@ -68,10 +85,13 @@ class Lector(models.Model):
         Biblioteca, on_delete=models.CASCADE, blank=False)
     id_direccion = models.ForeignKey(
         Direccion, on_delete=models.CASCADE, blank=True)
-    rut_lector = models.IntegerField(blank=False, unique=True)
-    digito_verificador = models.CharField(max_length=1, blank=False)
+    rut_lector = models.CharField(
+        max_length=12, blank=False, unique=True, validators=[validar_rut])
+    # digito_verificador = models.CharField(max_length=1, blank=False)
     nombre_lector = models.CharField(max_length=255, blank=False)
     correo_lector = models.CharField(max_length=255, blank=True)
+    fecha_nacimiento = models.DateField(
+        blank=True, validators=[validar_mayoria_edad])
     habilitado = models.BooleanField(default=True)
     created_at = models.DateTimeField(default=ahora)
     updated_at = models.DateTimeField(auto_now=True)
