@@ -44,7 +44,10 @@ class Autor(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        return self.nombre
+        if self.pseudonimo!='':
+            return self.pseudonimo
+        else:
+            return self.nombre
 
 
 class Comuna(models.Model):
@@ -88,11 +91,10 @@ class Lector(models.Model):
         Direccion, on_delete=models.CASCADE, blank=True)
     rut_lector = models.CharField(
         max_length=12, blank=False, unique=True, validators=[validar_rut])
-    # digito_verificador = models.CharField(max_length=1, blank=False)
     nombre_lector = models.CharField(max_length=255, blank=False)
     correo_lector = models.CharField(max_length=255, blank=True)
-    fecha_nacimiento = models.DateField(
-        blank=True, validators=[validar_mayoria_edad])
+    fecha_nacimiento = models.DateField(default=datetime.date.min,
+                                        blank=True, validators=[validar_mayoria_edad])
     habilitado = models.BooleanField(default=True)
     created_at = models.DateTimeField(default=ahora)
     updated_at = models.DateTimeField(auto_now=True)

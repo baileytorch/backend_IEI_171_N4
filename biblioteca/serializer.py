@@ -90,10 +90,10 @@ class BibliotecaSerializer(serializers.ModelSerializer):
 
 
 class LectorSerializer(serializers.ModelSerializer):
-    rut_lector = serializers.IntegerField(label='RUT')
-    digito_verificador = serializers.CharField(max_length=1, label='')
+    rut_lector = serializers.CharField(label='RUT')
     nombre_lector = serializers.CharField(max_length=255, label='Nombre')
     correo_lector = serializers.CharField(max_length=255, label='Email')
+    fecha_nacimiento = serializers.DateField(label='Fecha Nacimiento')
 
     biblioteca = serializers.StringRelatedField(
         source='id_biblioteca', read_only=True)
@@ -101,16 +101,24 @@ class LectorSerializer(serializers.ModelSerializer):
         queryset=Biblioteca.objects.all()
     )
 
+    direccion = serializers.StringRelatedField(
+        source='id_direccion', read_only=True)
+    id_direccion = serializers.PrimaryKeyRelatedField(
+        queryset=Direccion.objects.all()
+    )
+
     class Meta:
         model = Lector
         fields = [
             'id',
             'rut_lector',
-            'digito_verificador',
             'nombre_lector',
             'correo_lector',
+            'fecha_nacimiento',
             'id_biblioteca',
             'biblioteca',
+            'id_direccion',
+            'direccion',
         ]
 
 
