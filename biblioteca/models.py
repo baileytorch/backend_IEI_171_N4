@@ -1,5 +1,5 @@
 from django.db import models
-from rutificador import Rut
+from rut_chile import rut_chile
 from django.core.exceptions import ValidationError
 import datetime
 
@@ -9,9 +9,7 @@ ahora = datetime.datetime.now
 
 
 def validar_rut(rut):
-    try:
-        rut_valido = Rut(rut)
-    except:
+    if rut_chile.is_valid_rut(rut) == False:
         raise ValidationError('Dígito verificador NO corresponde.')
 
 
@@ -22,10 +20,11 @@ def validar_mayoria_edad(fecha_nacimiento):
         edad -= 1
     if edad < 18:
         raise ValidationError('Debe ser mayor de edad...')
+        
 
 
 class Nacionalidad(models.Model):
-    pais = models.CharField(max_length=50, blank=False)
+    pais = models.CharField(max_length=50, null=False,blank=False)
     nacionalidad = models.CharField(max_length=50, blank=False)
     created_at = models.DateTimeField(default=ahora)
     updated_at = models.DateTimeField(auto_now=True)
@@ -44,7 +43,7 @@ class Autor(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        if self.pseudonimo!='':
+        if self.pseudonimo != '':
             return self.pseudonimo
         else:
             return self.nombre
@@ -70,6 +69,9 @@ class Direccion(models.Model):
     created_at = models.DateTimeField(default=ahora)
     updated_at = models.DateTimeField(auto_now=True)
 
+    def __str__(self):
+        return f'Comuna: {self.id_comuna}, Calle: {self.calle} N°: {self.numero}'
+
 
 class Biblioteca(models.Model):
     id_direccion = models.ForeignKey(
@@ -94,13 +96,18 @@ class Lector(models.Model):
     nombre_lector = models.CharField(max_length=255, blank=False)
     correo_lector = models.CharField(max_length=255, blank=True)
     fecha_nacimiento = models.DateField(default=datetime.date.min,
-                                        blank=True, validators=[validar_mayoria_edad])
+                                        blank=True,validators=[validar_mayoria_edad])
     habilitado = models.BooleanField(default=True)
     created_at = models.DateTimeField(default=ahora)
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return self.nombre_lector
+
+    # def save(self, *args, **kwargs):
+    #     rut_formateado = rut_chile.format_rut_with_dots(self.rut_lector)
+    #     self.rut_lector = rut_formateado.strip()
+    #     super().save(*args, **kwargs)
 
 
 class TipoCategoria(models.Model):

@@ -1,0 +1,303 @@
+[
+    {
+        "model": "biblioteca.autor",
+        "pk": 4,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Isabel Allende",
+            "pseudonimo": "",
+            "biografia": "Novelista chilena reconocida internacionalmente por su obra 'La casa de los espíritus'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 5,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Roberto Bolaño",
+            "pseudonimo": "",
+            "biografia": "Autor chileno conocido por su novela 'Los detectives salvajes'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 6,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Marcela Serrano",
+            "pseudonimo": "",
+            "biografia": "Escritora chilena de novelas contemporáneas con enfoque en el rol de la mujer.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 7,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "José Donoso",
+            "pseudonimo": "",
+            "biografia": "Novelista chileno, figura destacada del Boom Latinoamericano.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 8,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Pedro Lemebel",
+            "pseudonimo": "",
+            "biografia": "Cronista y escritor chileno conocido por su activismo y obras sobre diversidad sexual y política.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 9,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Antonio Skármeta",
+            "pseudonimo": "",
+            "biografia": "Autor chileno conocido por 'El cartero de Neruda'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 10,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Alberto Fuguet",
+            "pseudonimo": "",
+            "biografia": "Escritor chileno contemporáneo, precursor del movimiento McOndo..",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 11,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Diamela Eltit",
+            "pseudonimo": "",
+            "biografia": "Escritora chilena con obras críticas hacia la dictadura y la cultura de masas.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 12,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Nona Fernández",
+            "pseudonimo": "",
+            "biografia": "Escritora, actriz y guionista chilena, destacada por sus obras sobre memoria histórica.",        
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.autor",
+        "pk": 13,
+        "fields": 
+        {
+            "id_nacionalidad": 39,
+            "nombre": "Alejandro Zambra",
+            "pseudonimo": "",
+            "biografia": "Autor chileno contemporáneo, conocido por 'Bonsái' y 'Formas de volver a casa'.",        
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 14, 
+        "fields": 
+        { 
+            "id_nacionalidad": 10, 
+            "nombre": "Jorge Luis Borges", 
+            "pseudonimo": "", 
+            "biografia": "Escritor argentino, uno de los más destacados del siglo XX.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 15, 
+        "fields": 
+        { 
+            "id_nacionalidad": 10, 
+            "nombre": "Julio Cortázar", 
+            "pseudonimo": "", 
+            "biografia": "Novelista y cuentista argentino, autor de 'Rayuela'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 16, 
+        "fields": 
+        { 
+            "id_nacionalidad": 42, 
+            "nombre": "Gabriel García Márquez", 
+            "pseudonimo": "", 
+            "biografia": "Escritor colombiano, autor de 'Cien años de soledad'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 17, 
+        "fields": 
+        { 
+            "id_nacionalidad": 173, 
+            "nombre": "Mario Vargas Llosa", 
+            "pseudonimo": "",
+            "biografia": "Escritor peruano, Premio Nobel de Literatura 2010.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 18, 
+        "fields": 
+        { 
+            "id_nacionalidad": 146, 
+            "nombre": "Carlos Fuentes", 
+            "pseudonimo": "", 
+            "biografia": "Novelista mexicano, una de las figuras más importantes de la literatura hispanoamericana.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        }
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 19, 
+        "fields": 
+        { 
+            "id_nacionalidad": 146, 
+            "nombre": "Octavio Paz", 
+            "pseudonimo": "", 
+            "biografia": "Poeta mexicano, Premio Nobel de Literatura 1990.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 20, 
+        "fields": 
+        { 
+            "id_nacionalidad": 62, 
+            "nombre": "Miguel de Cervantes", 
+            "pseudonimo": "", 
+            "biografia": "Autor español de 'Don Quijote de la Mancha'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 21, 
+        "fields": 
+        { 
+            "id_nacionalidad": 62, 
+            "nombre": "Federico García Lorca", 
+            "pseudonimo": "", 
+            "biografia": "Poeta y dramaturgo español, referente de la Generación del 27.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 22, 
+        "fields": 
+        { 
+            "id_nacionalidad": 51, 
+            "nombre": "José Martí", 
+            "pseudonimo": "", 
+            "biografia": "Poeta y ensayista cubano, héroe nacional de Cuba.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 23, 
+        "fields": 
+        { 
+            "id_nacionalidad": 158,
+            "nombre": "Rubén Darío", 
+            "pseudonimo": "", 
+            "biografia": "Poeta nicaragüense, iniciador del modernismo literario en lengua española.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 24, 
+        "fields": 
+        { 
+            "id_nacionalidad": 146, 
+            "nombre": "Sor Juana Inés de la Cruz", 
+            "pseudonimo": "", 
+            "biografia": "Poetisa y pensadora mexicana del Siglo de Oro.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 25, 
+        "fields": 
+        { 
+            "id_nacionalidad": 28, 
+            "nombre": "Joaquim Machado de Assis", 
+            "pseudonimo": "", 
+            "biografia": "Escritor brasileño considerado uno de los mayores de la lengua portuguesa.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 26, 
+        "fields": 
+        { 
+            "id_nacionalidad": 234, 
+            "nombre": "Eduardo Galeano", 
+            "pseudonimo": "", 
+            "biografia": "Escritor uruguayo, autor de 'Las venas abiertas de América Latina'.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 27, 
+        "fields": 
+        { 
+            "id_nacionalidad": 237, 
+            "nombre": "Rómulo Gallegos", 
+            "pseudonimo": "", 
+            "biografia": "Escritor venezolano y presidente de Venezuela en 1948.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    },
+    { 
+        "model": "biblioteca.autor", 
+        "pk": 28, 
+        "fields": 
+        { 
+            "id_nacionalidad": 234, 
+            "nombre": "Mario Benedetti",
+            "pseudonimo": "", 
+            "biografia": "Poeta y narrador uruguayo de gran influencia en la literatura latinoamericana.",
+            "updated_at": "2025-11-17T15:20:00Z"
+        } 
+    }
+]

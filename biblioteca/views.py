@@ -3,6 +3,8 @@ from django.contrib import messages
 from django.contrib.auth import logout, login
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.forms import UserCreationForm
+import django_filters
+
 from rest_framework.permissions import IsAuthenticated
 
 from rest_framework import viewsets
@@ -103,6 +105,19 @@ class CategoriaViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     queryset = Categoria.objects.all()
     serializer_class = CategoriaSerializer
+
+class LibroFilter(django_filters.FilterSet):
+    id_biblioteca = django_filters.ModelChoiceFilter(queryset=Biblioteca.objects.all(),label='Biblioteca')
+    id_categoria = django_filters.ModelChoiceFilter(queryset=Categoria.objects.all(),label='Categoría')
+    id_autor = django_filters.ModelChoiceFilter(queryset=Autor.objects.all(),label='Autor')
+    class Meta:
+        model = Libro
+        fields = ['id_biblioteca','id_categoria','id_autor']
+
+@login_required
+def listado_libros(request):
+    f = LibroFilter(request.GET, queryset=Libro.objects.all())
+    return render(request, 'biblioteca/lista_libros.html',{'filtro': f})
 
 
 class LibroViewSet(viewsets.ModelViewSet):

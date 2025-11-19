@@ -31,6 +31,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 LOGIN_REDIRECT_URL = '/'
+LOGOUT_REDIRECT_URL = 'login'
 
 
 # Application definition
@@ -46,7 +47,8 @@ INSTALLED_APPS = [
     # aplicaciones de terceros
     'rest_framework',
     'iconic',
-    'bootstrap5',
+    'django_filters',
+    'widget_tweaks',
 
     # Implementación de documentación API
     'drf_yasg',

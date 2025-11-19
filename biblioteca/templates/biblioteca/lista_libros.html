@@ -1,0 +1,44 @@
+{% extends 'plantilla_base.html' %} {% load static %} 
+
+{% block title %}Listado Libros{% endblock%}
+{% block estilos %}<link rel="stylesheet" href="{% static
+'css/estilos_libros.css' %}" />{% endblock %}
+
+{% block cabecera %}<h1>Listado de Libros</h1>{% endblock %} 
+
+{% block contenido %}
+
+{% load widget_tweaks %}
+
+<div class="row">
+    <form method="get">
+        <div class="row">
+            {% for field in filtro.form %}
+                <div class="col-4">
+                    {{ field.label_tag }}
+                    {% render_field field class="form-control" placeholder=field.label %}
+                </div> 
+            {% endfor %}
+        </div>
+        </br>
+        <button type="submit" class="btn btn-primary">Aplicar Filtros</button>
+    </form>
+</div>
+</br>
+
+<div class="row">
+    {% for obj in filtro.qs %}
+        <div class="col-sm-4 tarjeta-libro">
+            <div class="card">
+                <div class="card-header">{{obj.titulo}}</div>
+                <div class="card-body">
+                    <h5 class="card-title">{{obj.id_autor}}</h5>
+                    <p class="card-text">Categoría:
+{{obj.id_categoria}}</p>
+                    <a href="#" class="btn btn-primary">botón</a>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %} 

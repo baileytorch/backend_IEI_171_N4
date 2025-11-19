@@ -40,18 +40,19 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.pagina_inicio, name='pagina_inicio'),
 
-    # URL's para aplicación particular
+    # URL's para aplicación biblioteca
     path('biblioteca/', include('biblioteca.urls')),
+    path('listado_libros', views.listado_libros,name='listado_libros'),
 
     # URL's para documentación de API
     path('apidocs/', schema_view.with_ui('swagger',
-         cache_timeout=0), name='schema-swagger-ui'),
+        cache_timeout=0), name='schema-swagger-ui'),
     path('redocs/', schema_view.with_ui('redoc',
-         cache_timeout=0), name='schema-redoc'),
+        cache_timeout=0), name='schema-redoc'),
 
     # URL's de autenticación
     path('accounts/', include('django.contrib.auth.urls')),
     path('login/', auth_views.LoginView.as_view(), name='login'),
     path('logout/', auth_views.LogoutView.as_view(), name='logout'),
-    path('registro/', views.registro, name='registro'),
+    path('register/', views.registro, name='registro'),
 ]

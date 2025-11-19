@@ -1,0 +1,189 @@
+[
+    {
+        "model": "biblioteca.libro",
+        "pk": 1,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "A Estos yo Canto y yo Nombro",
+            "paginas": 350,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 2,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "Antología general",
+            "paginas": 832,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 3,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "Los Versos del Capitán",
+            "paginas": 80,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 4,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "Residencia en la Tierra",
+            "paginas": 144,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 5,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "20 Poemas de Amor y una Cancion Desesperada",
+            "paginas": 152,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 6,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "Confieso que he Vivido",
+            "paginas": 500,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 7,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 1,
+            "titulo": "Libro de las Preguntas",
+            "paginas": 88,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 8,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 2,
+            "titulo": "Locas Mujeres",
+            "paginas": 73,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 9,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 2,
+            "titulo": "Desolacion & Ternura & Tala & Lagar",
+            "paginas": 251,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 10,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 2,
+            "titulo": "Todo es Ronda",
+            "paginas": 10,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.libro",
+        "pk": 11,
+        "fields": 
+        {
+            "id_biblioteca": 1,
+            "id_categoria": 7,
+            "id_autor": 2,
+            "titulo": "Por la Humanidad Futura",
+            "paginas": 324,
+            "copias": 5,
+            "ubicacion": "Sección 1",
+            "fisico": true,
+            "habilitado": true,
+            "updated_at": "2025-10-28T16:30:00Z"
+        }
+    }
+]

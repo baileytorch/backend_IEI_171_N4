@@ -7,8 +7,9 @@
     <title>{% block title %}Gestión Biblioteca{% endblock %}</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="{% static 'css/bootstrap_cyborg.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/bootstrap_slate.css' %}" />
     <link rel="stylesheet" href="{% static 'css/estilos.css' %}" />
+    <script src="{% static 'js/bootstrap.js' %}" async defer></script>
     {% block extra_css %}{% endblock %}
   </head>
 
@@ -42,21 +43,15 @@
                 <a class="nav-link" href="#">Autores</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Libros</a>
+                <a class="nav-link" href="{%url 'listado_libros'%}">Libros</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Lectores</a>
               </li>
               <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  data-bs-toggle="dropdown"
-                  href="#"
-                  role="button"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                  >Configuración</a
-                >
+                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                  Configuración
+                </a>
                 <div class="dropdown-menu">
                   <a class="dropdown-item" href="#">Datos Biblioteca</a>
                   <a class="dropdown-item" href="#">Another action</a>
@@ -72,6 +67,9 @@
           </div>
         </div>
       </nav>
+    </header>
+
+    <main class="container">
       {% block cabecera %}
       <div class="row">
         <div class="col-12 text-center">
@@ -79,9 +77,7 @@
         </div>
       </div>
       {% endblock %}
-    </header>
-
-    <main>
+      
       <div class="contenido_principal">
         {% block contenido %}
         <!-- El contenido específico de cada página se insertará aquí -->
