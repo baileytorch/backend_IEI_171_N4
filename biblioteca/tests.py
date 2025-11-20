@@ -14,7 +14,7 @@ class TestValidarRut(TestCase):
 
     def test_rut_invalido(self):
         with self.assertRaises(ValidationError):
-            validar_rut('12345678-6')
+            validar_rut('12345678-4')
 
 
 class TestValidarEdad(TestCase):
