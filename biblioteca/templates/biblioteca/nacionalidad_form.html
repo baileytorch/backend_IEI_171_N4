@@ -1,0 +1,21 @@
+{% extends 'plantilla_base.html' %} {% load static %}{% load iconic %} {% block title %}Agregar
+Nacionalidad{% endblock%} {% block estilos %}<link rel="stylesheet" href="{% static 'css/estilos_libros.css' %}"/>
+{% endblock %} {% block cabecera %}
+<h1>Agregar Nacionalidad</h1>
+{% endblock %} {% block contenido %}   
+<form method="post">{% csrf_token %}
+    <div class="row">
+
+        {% for field in form %}
+    <div class="col">
+        {{ field.errors }}
+        {{ field.label_tag }} {{ field }}
+    </div>
+{% endfor %}
+    </div>
+</br>
+    <input type="submit" value="Guardar" class="btn btn-primary">
+</form>
+{% endblock %} {% block scripts %}
+    {% comment %} <script type="text/javascript" src="{% static 'scripts/scripts_biblioteca.js' %}"></script> {% endcomment %}
+{% endblock %}

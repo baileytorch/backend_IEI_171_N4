@@ -61,9 +61,21 @@
                 </div>
               </li>
             </ul>
-            <a href="{% url 'logout' %}" class="logout nav-link"
-              >Salir {% iconic_icon "log-out" %}</a
-            >
+
+            <span class="navbar-text">
+              {% if user.is_authenticated %}
+                ¡Bienvenido {{ user.get_full_name }}!
+              {% else %}
+                <p>Por favor inicie sesión.</p>
+              {% endif %}
+            </span>
+
+            <form action="{% url 'logout' %}" method="post">
+              {% csrf_token %}
+              <button type="submit" class="nav-link">
+                Salir {% iconic_icon "log-out" %}
+              </button>
+            </form>
           </div>
         </div>
       </nav>

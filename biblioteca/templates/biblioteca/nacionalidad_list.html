@@ -1,0 +1,36 @@
+{% extends 'plantilla_base.html' %} {% load static %}{% load iconic %} {% block title %}Listado
+Nacionalidades{% endblock%} {% block estilos %}<link rel="stylesheet" href="{% static 'css/estilos_libros.css' %}"
+/>{% endblock %} {% block cabecera %}
+<h1>Listado de Nacionalidades</h1>
+{% endblock %} {% block contenido %}   
+    <table id="tabla_nacionalidades" class="table table-striped table-hover" data-pagination="true" data-search="true">
+        <thead>
+            <tr>
+                <th>N°</th>
+                <th>País</th>
+                <th>Nacionalidad</th>
+                <th>Opciones</th>
+            </tr>
+        </thead>
+    
+        <tbody>
+            {% for nacionalidad in object_list %}
+                <td>{{ nacionalidad.id }}</td>
+                <td>{{ nacionalidad.pais }}</td>
+                <td>{{ nacionalidad.nacionalidad }}</td>
+                <td>
+                    <a class="text-decoration-none" href="#">{% iconic_icon "eye" %}</a>
+                    {% if perms.biblioteca.add_nacionalidad or perms.biblioteca.change_nacionalidad %}
+                        <a class="text-decoration-none" href="#">{% iconic_icon "edit" %}</a>
+                        <a class="text-decoration-none" href="#">{% iconic_icon "trash" %}</a>
+                    {% endif %}
+                </td>
+            <!-- Data will be loaded dynamically or from Django context -->
+        </tbody>
+        {% empty %}
+            <h3>No hay data de Nacionalidades.</h3>
+        {% endfor %}
+    </table>
+{% endblock %} {% block scripts %}
+{% comment %} <script type="text/javascript" src="{% static 'scripts/listados_datatables.js' %}"></script> {% endcomment %}
+{% endblock %}

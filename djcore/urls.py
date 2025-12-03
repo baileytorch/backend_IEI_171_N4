@@ -43,6 +43,8 @@ urlpatterns = [
     # URL's para aplicación biblioteca
     path('biblioteca/', include('biblioteca.urls')),
     path('listado_libros', views.listado_libros,name='listado_libros'),
+    path('listado_nacionalidades', views.NacionalidadListView.as_view(),name='listado_nacionalidades'),
+    path('crear_nacionalidad', views.NacionalidadCreateView.as_view(),name='crear_nacionalidad'),
 
     # URL's para documentación de API
     path('apidocs/', schema_view.with_ui('swagger',

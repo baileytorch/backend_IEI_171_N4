@@ -6,12 +6,17 @@ from django.contrib.auth.forms import UserCreationForm
 import django_filters
 
 from rest_framework.permissions import IsAuthenticated
+from django.views.generic import ListView, DetailView  # Vistas para VER
+from django.views.generic import CreateView, UpdateView, DeleteView  # Vistas para EDITAR
+from django.views.generic import View, TemplateView, RedirectView  # Vistas BÁSICAS
+from django.contrib.auth.mixins import LoginRequiredMixin,PermissionRequiredMixin, UserPassesTestMixin
 
 from rest_framework import viewsets
 from rest_framework.authentication import SessionAuthentication
 
 from .serializer import NacionalidadSerializer, AutorSerializer, ComunaSerializer, DireccionSerializer, BibliotecaSerializer, LibroSerializer, TipoCategoriaSerializer, CategoriaSerializer, LectorSerializer, PrestamoSerializer
 from .models import Nacionalidad, Autor, Comuna, Direccion, Biblioteca, Lector, TipoCategoria, Categoria, Libro, Prestamo
+from .forms import NacionalidadForm
 
 # Create your views here.
 
@@ -50,6 +55,22 @@ def pagina_inicio(request):
         del request.session['mensaje_bienvenida']
     return render(request, 'biblioteca/inicio.html', {'message': mensaje_bienvenida})
 
+class NacionalidadListView(PermissionRequiredMixin, ListView):
+    authentication_classes = [SessionAuthentication]
+    permission_classes = [IsAuthenticated]
+    permission_required = ('biblioteca.view_nacionalidad')
+    model = Nacionalidad
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['usuario'] = self.request.user
+        return context
+
+class NacionalidadCreateView(PermissionRequiredMixin, CreateView):
+    authentication_classes = [SessionAuthentication]
+    permission_classes = [IsAuthenticated]
+    permission_required = ('biblioteca.add_nacionalidad')
+    model = Nacionalidad
+    form_class = NacionalidadForm
 
 class NacionalidadViewSet(viewsets.ModelViewSet):
     authentication_classes = [SessionAuthentication]
